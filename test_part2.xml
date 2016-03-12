@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test timelimit='15' questions='300000'>
+    <section>
+        <question>
+            <text>Эргономика изучает деятельность человека в системе</text>
+            <answer correct='1'>Человек – машина – производственная среда</answer>
+            <answer>Машина – производственная среда</answer>
+            <answer>Производственная среда</answer>
+            <answer>Человек – органы управления</answer>
+        </question>
+        <question>
+            <text>Эргономика под “машиной” понимает</text>
+            <answer correct='1'>Орудия труда</answer>
+            <answer>Параметры микроклимата</answer>
+            <answer>Потоки информации</answer>
+            <answer>Шум, вибрацию</answer>
+            <answer>Распоряжения руководства</answer>
+        </question>
+        <question>
+            <text>Правильное цветовое оформление производственного помещения и оборудования</text>
+            <answer correct='1'>Снижает утомляемость</answer>
+            <answer correct='1'>Улучшает настроение</answer>
+            <answer correct='1'>Уменьшает опасность травматизма</answer>
+            <answer correct='1'>Повышает производительность</answer>
+            <answer>Действует раздражающе</answer>
+        </question>
+        <question>
+            <text>Красный цвет по технике безопасности сигнализирует</text>
+            <answer correct='1'>Об опасности</answer>
+            <answer correct='1'>О запрещении</answer>
+            <answer>О необходимости внимания</answer>
+            <answer>О разрешении</answer>
+            <answer>О безопасности</answer>
+        </question>
+        <question>
+            <text>Окраске в красные цвета подлежат</text>
+            <answer correct='1'>Кнопки «Стоп»</answer>
+            <answer correct='1'>Рукоятки выключения</answer>
+            <answer correct='1'>Тормозные устройства</answer>
+            <answer correct='1'>Противопожарное оборудование</answer>
+            <answer>Заземляющие провода</answer>
+        </question>
+        <question>
+            <text>Окраске в черный цвет по технике безопасности подлежат</text>
+            <answer correct='1'>Заземляющие провода, шины</answer>
+            <answer>Противопожарное оборудование</answer>
+            <answer>Кнопки «Стоп»</answer>
+            <answer>Сигнальные лампы</answer>
+        </question>
+        <question>
+            <text><![CDATA[Укажите опасное для оператора размещение ПЭВМ:<ol>
+            <li><img src='img_2_3.png' width='300'></li>
+            <li><img src='img_2_2.png' width='300'></li>
+            <li><img src='img_2_1.png' width='300'></li>
+            <li><img src='img_2_4.png' width='300'></li>
+            </ol>]]></text>
+            <answer correct='1'>2</answer>
+            <answer correct='1'>3</answer>
+            <answer>1</answer>
+            <answer>4</answer>
+        </question>
+        <question>
+            <text><![CDATA[Укажите рациональное размещение ПЭВМ с учётом взаимного экранирования:<ol>
+            <li><img src='img_2_8.png' width='300'></li>
+            <li><img src='img_2_6.png' width='300'></li>
+            <li><img src='img_2_7.png' width='300'></li>
+            <li><img src='img_2_5.png' width='300'></li>
+            </ol>]]></text>
+            <answer correct='1'>4</answer>
+            <answer>1</answer>
+            <answer>2</answer>
+            <answer>3</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите оптимальное расположение ПЭВМ:<ol>
+            <li><img src='img_2_5.png' width='300'></li>
+            <li><img src='img_2_6.png' width='300'></li>
+            <li><img src='img_2_3.png' width='300'></li>
+            <li><img src='img_2_4.png' width='300'></li>
+            </ol>]]></text>
+            <answer correct='1'>3</answer>
+            <answer correct='1'>4</answer>
+            <answer>1</answer>
+            <answer>2</answer>
+        </question>
+        <question>
+            <text><![CDATA[Зона досягаемости "1" для органов управления и средств отображения<br><img src='img_2_9.png'>]]></text>
+            <answer correct='1'>Наиболее важных  и часто используемых</answer>
+            <answer>Часто используемых</answer>
+            <answer>Редко используемых</answer>
+            <answer>Вспомогательных</answer>
+        </question>
+        <question>
+            <text>Антропометрические данные человека</text>
+            <answer correct='1'>Рост</answer>
+            <answer correct='1'>Длина руки</answer>
+            <answer correct='1'>Длина ноги</answer>
+            <answer correct='1'>Размеры кисти руки</answer>
+            <answer>Здоровье органов</answer>
+        </question>
+        <question>
+            <text>Оптимальная зона досягаемости моторного поля предназначена для размещения органов управления</text>
+            <answer correct='1'>Очень часто используемых и наиболее важных</answer>
+            <answer>Часто используемых</answer>
+            <answer>Редко используемых</answer>
+            <answer>Вспомогательных</answer>
+        </question>
+        <question>
+            <text>Ручные органы управления</text>
+            <answer correct='1'>Клавиши</answer>
+            <answer correct='1'>Кнопки</answer>
+            <answer correct='1'>Тумблеры</answer>
+            <answer correct='1'>Переключатели</answer>
+            <answer>Педали</answer>
+        </question>
+        <question>
+            <text>Кодирование информации в органах управления может осуществляться</text>
+            <answer correct='1'>Цветом</answer>
+            <answer correct='1'>Буквой</answer>
+            <answer correct='1'>Цифрой</answer>
+            <answer correct='1'>Формой</answer>
+            <answer>Временем срабатывания</answer>
+        </question>
+    </section>
+    <section>
+        <question>
+            <text>Виды местных электротравм</text>
+            <answer correct='1'>ожоги</answer>
+            <answer correct='1'>электрические знаки</answer>
+            <answer correct='1'>металлизация кожи</answer>
+            <answer correct='1'>электроофтальмия</answer>
+            <answer>электрический удар</answer>
+        </question>
+        <question>
+            <text>Травма, в результате которой вглубь кожи проникают пары металла от электрической дуги</text>
+            <answer correct='1'>металлизация кожи</answer>
+            <answer>дуговой ожог</answer>
+            <answer>электрический знак</answer>
+            <answer>токовый ожог</answer>
+        </question>
+        <question>
+            <text>Порог неотпускающего тока частотой 50 Гц</text>
+            <answer correct='1'>15 мА</answer>
+            <answer>0,1 мА</answer>
+            <answer>1 мА</answer>
+            <answer>100 мА</answer>
+            <answer>20 мА</answer>
+        </question>
+        <question>
+            <text>Основное сопротивление электрическому току в теле человека оказывает</text>
+            <answer correct='1'>роговой слой кожи</answer>
+            <answer>кости</answer>
+            <answer>хрящи</answer>
+            <answer>жировая ткань</answer>
+        </question>
+        <question>
+            <text>Пути тока в теле человека, представляющие наибольшую опасность</text>
+            <answer correct='1'>голова – руки</answer>
+            <answer correct='1'>голова – ноги</answer>
+            <answer>рука – рука</answer>
+            <answer>нога – нога</answer>
+            <answer>левая рука – ноги</answer>
+        </question>
+        <question>
+            <text>Радиус зоны растекания тока</text>
+            <answer correct='1'>20 м</answer>
+            <answer>10 м</answer>
+            <answer>40 м</answer>
+            <answer>100 м</answer>
+        </question>
+        <question>
+            <text>Точки почвы, лежащие вне зоны растекания тока, называются</text>
+            <answer correct='1'>электротехническая «земля»</answer>
+            <answer>многослойная земля</answer>
+            <answer>однородная земля</answer>
+            <answer>неоднородная земля</answer>
+        </question>
+        <question>
+            <text>Напряжение прикосновения – это разность потенциалов между</text>
+            <answer correct='1'>рукой и ногами человека</answer>
+            <answer>руками</answer>
+            <answer>ногами</answer>
+            <answer>ногами и заземлением</answer>
+        </question>
+        <question>
+            <text><![CDATA[Ток через тело человека при V=220В; Rиз=20 кОм;  Rзам &lt;&lt; Rh  равен:<br><img src='img_4_1.png'>]]></text>
+            <answer correct='1'>220 мА</answer>
+            <answer>50 мА</answer>
+            <answer>110 мА</answer>
+            <answer>440 мА</answer>
+        </question>
+        <question>
+            <text><![CDATA[Зависимость тока через тело человека Ih=f(Rиз), если C=0<br><img src='img_4_2.png'><img src=':/img/img/img_4_3'.png>]]></text>
+            <answer correct='1'>а</answer>
+            <answer>б</answer>
+            <answer>в</answer>
+            <answer>г</answer>
+            <answer>д</answer>
+        </question>
+        <question>
+            <text><![CDATA[Прикосновение наиболее опасно при r_зам &lt;&lt; Rh<br><img src='img_4_4.png'>]]></text>
+            <answer correct='1'>3</answer>
+            <answer>1</answer>
+            <answer>2</answer>
+            <answer>4</answer>
+            <answer>5</answer>
+        </question>
+        <question>
+            <text><![CDATA[Зависимость тока через тело человека Ih = f(c), Rиз = ∞<br><img src='img_4_5.png'>]]></text>
+            <answer correct='1'>в</answer>
+            <answer>а</answer>
+            <answer>б</answer>
+            <answer>г</answer>
+            <answer>д</answer>
+        </question>
+        <question>
+            <text><![CDATA[Зависимость тока через тело человека Ih = f(Rиз), C = 0<br><img src='img_4_6.png'>]]></text>
+            <answer correct='1'>Uл = 380 В</answer>
+            <answer correct='1'>Uф = 220 В</answer>
+            <answer>Uл = 220 В</answer>
+            <answer>Uф = 380 В</answer>
+            <answer>Uл = 380 - 220 В</answer>
+        </question>
+        <question>
+            <text><![CDATA[Маркировка напряжения трехфазной сети <img src='img_4_7.png'>]]></text>
+            <answer correct='1'>Uл = 380 В</answer>
+            <answer>Uл = 220 В   </answer>
+            <answer correct='1'>Uф = 220 В  </answer>
+            <answer>Uф = 380 В</answer>
+            <answer>Uл = 380 - 220 В</answer>
+        </question>
+        <question>
+            <text><![CDATA[Человек попал под напряжение (Rзам &lt;&lt; Rh)<br><img src='img_4_8.png'>]]></text>
+            <answer correct='1'>Uh = Uл</answer>
+            <answer>Uh = Uф</answer>
+            <answer>Uh = 0</answer>
+            <answer>Uф &lt; Uh &lt; Uл</answer>
+        </question>
+        <question>
+            <text><![CDATA[Ток через человека при прикосновении к пробитому корпусу <img src='img_4_9.png'>, r_из = 10 кОм]]></text>
+            <answer correct='1'>220 мА</answer>
+            <answer>3 мА</answer>
+            <answer>5 мА</answer>
+            <answer>10 мА</answer>
+            <answer>50 мА</answer>
+        </question>
+        <question>
+            <text>В сетях с заземленной нейтралью V &lt; 1000 В для защиты от замыкания на корпус применяется</text>
+            <answer correct='1'>устройство защитного отключения</answer>
+            <answer>защитное заземление</answer>
+            <answer>зануление</answer>
+            <answer>контроль за величиной сопротивления изоляции</answer>
+            <answer>дисковая блокировка</answer>
+        </question>
+        <question>
+            <text>В сетях с изолированной нейтралью V &lt; 1000 В для защиты от замыкания на корпус применяются </text>
+            <answer correct='1'>устройство защитного отключения</answer>
+            <answer correct='1'>защитное заземление</answer>
+            <answer>зануление</answer>
+            <answer correct='1'>контроль за величиной сопротивления изоляции</answer>
+            <answer>дисковая блокировка</answer>
+        </question>
+        <question>
+            <text>Виды заземляющих устройств:</text>
+            <answer correct='1'>выносное</answer>
+            <answer correct='1'>контурное</answer>
+            <answer>вертикальное</answer>
+            <answer>горизонтальное</answer>
+            <answer>потенциальное</answer>
+        </question>
+        <question>
+            <text>Эффект экранирования ведет к ...</text>
+            <answer correct='1'>увеличению необходимого числа заземлителей</answer>
+            <answer correct='1'>ухудшения коэффициента экранирования</answer>
+            <answer correct='1'>трудности стекания тока с заземлителей</answer>
+            <answer>уменьшению необходимого числа заземлителей</answer>
+            <answer>улучшению коэффициента экранирования</answer>
+        </question>
+        <question>
+            <text>Зануление - это преднамеренное электрическое соединение металлических корпусов электроустановок с  ...</text>
+            <answer correct='1'>нулевым защитным проводником</answer>
+            <answer>фазным проводом</answer>
+            <answer>нулевым рабочим проводом</answer>
+            <answer>заземляющим устройством</answer>
+        </question>
+        <question>
+            <text>Требование к нулевому защитному проводнику:</text>
+            <answer correct='1'>малое сопротивление</answer>
+            <answer>изоляция, как у фазного провода</answer>
+            <answer>сечение, как у фазного провода</answer>
+            <answer>высокое сопротивление</answer>
+        </question>
+        <question>
+            <text>Заземление нейтрали в схеме зануления необходимо для защиты человека ...</text>
+            <answer correct='1'>от момента пробоя до момента срабатывания защиты.</answer>
+            <answer correct='1'>при обрыве фазного провода на землю</answer>
+            <answer>от пробоя на корпус</answer>
+            <answer>при обрыве нулевого защитного провода</answer>
+            <answer>от шагового напряжения</answer>
+        </question>
+        <question>
+            <text><![CDATA[Напряжение прикосновения при U=380/220 В в случае обрыва НЗП<br><img src='img_4_10.png'>]]></text>
+            <answer correct='1'>220В</answer>
+            <answer>380В</answer>
+            <answer>110В</answer>
+            <answer>190В</answer>
+        </question>
+        <question>
+            <text>Область применения УЗО</text>
+            <answer correct='1'>Практически не ограничена</answer>
+            <answer>Ограничена напряжением сети</answer>
+            <answer>Ограничена режимом нейтрали сети</answer>
+            <answer>Ограничена передвижными установками</answer>
+        </question>
+        <question>
+            <text>Основные требования к УЗО</text>
+            <answer correct='1'>Высокая чувствительность</answer>
+            <answer correct='1'>Малое время отключения</answer>
+            <answer correct='1'>Селективность</answer>
+            <answer correct='1'>Самоконтроль исправности</answer>
+            <answer>Напряжение питания</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите правильное соответствие схемы и названия:<br><img src='img_4_11.png'><br><img src=':/img/img/img_4_14.png'><ol type='a'>
+            <li>Защитное заземление</li>
+            <li>Зануление</li>
+            <li>Электрическая блокировка</li>
+            <li>УЗО на ток замыкания на землю</li>
+            <li>УЗО на потенциал корпуса</li>
+            </ol>]]></text>
+            <answer correct='1'>1e, 2d, 3b, 4a</answer>
+            <answer>1a, 2c, 3b, 4e</answer>
+            <answer>1c, 2b, 3d, 4a</answer>
+            <answer>1a, 2b, 3d, 4e</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите правильное соответствие схемы и названия:<br><img src='img_4_13.png'><br><img src=':/img/img/img_4_14.png'><ol type='a'>
+            <li>УЗО на напряжение нулевой последовательности</li>
+            <li>Зануление</li>
+            <li>Электрическая блокировка</li>
+            <li>УЗО на ток замыкания на землю</li>
+            <li>УЗО на потенциал корпуса</li>
+            </ol>]]></text>
+            <answer correct='1'>1e, 2d, 3b, 4a</answer>
+            <answer>1a, 2c, 3b, 4e</answer>
+            <answer>1c, 2b, 3d, 4a</answer>
+            <answer>1a, 2b, 3d, 4e</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите правильное соответствие схемы и названия:<br><img src='img_4_15.png'><br><img src=':/img/img/img_4_16.png'><ol type='a'>
+            <li>УЗО на ток замыкания на землю</li>
+            <li>Зануление</li>
+            <li>Защитное заземление</li>
+            <li>УЗО на ток замыкания на землю</li>
+            <li>УЗО на потенциал корпуса</li>
+            </ol>]]></text>
+            <answer correct='1'>1e, 2d, 3b, 4a</answer>
+            <answer>1a, 2c, 3b, 4e</answer>
+            <answer>1c, 2b, 3d, 4a</answer>
+            <answer>1a, 2b, 3d, 4e</answer>
+        </question>
+        <question>
+            <text>Основные изолирующие защитные средства V &lt; 1000</text>
+            <answer correct='1'>диэлектрические перчатки</answer>
+            <answer correct='1'>изолирующие клещи</answer>
+            <answer correct='1'>указатели напряжения</answer>
+            <answer correct='1'>изолирующие штанги</answer>
+            <answer>предупредительные плакаты</answer>
+        </question>
+        <question>
+            <text>Ограждающие защитные средства</text>
+            <answer correct='1'>временные переносные ограждения</answer>
+            <answer correct='1'>изолирующие накладки</answer>
+            <answer correct='1'>временные переносные заземления</answer>
+            <answer correct='1'>предупредительные плакаты</answer>
+            <answer>противогазы</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите основные изолирующие защитные средства в электроустановках до 1000 В<br><img src='img_4_17.png'>]]></text>
+            <answer correct='1'>1</answer>
+            <answer correct='1'>3</answer>
+            <answer>2</answer>
+            <answer>4</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите дополнительные изолирующие защитные средства в электроустановках до 1000 В<br><img src='img_4_18.png'>]]></text>
+            <answer correct='1'>1</answer>
+            <answer correct='1'>2</answer>
+            <answer>3</answer>
+            <answer>4</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите ограждающие защитные средства<br><img src='img_4_19.png'>]]></text>
+            <answer correct='1'>1</answer>
+            <answer>2</answer>
+            <answer>3</answer>
+            <answer>4</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите предохранительные защитные средства<br><img src='img_4_20.png'>]]></text>
+            <answer correct='1'>1</answer>
+            <answer correct='1'>3</answer>
+            <answer>2</answer>
+            <answer>4</answer>
+        </question>
+        <question>
+            <text>Контроль за величиной сопротивления изоляции осуществляется с помощью</text>
+            <answer correct='1'>трех вольтметров</answer>
+            <answer>двух вольтметров</answer>
+            <answer>двух ваттметров</answer>
+            <answer>вольтметра и амперметра</answer>
+        </question>
+        <question>
+            <text>Сопротивление изоляции между проводом и землей должно быть не менее</text>
+            <answer correct='1'>0,5 МОм</answer>
+            <answer>4 Ом</answer>
+            <answer>10 Ом</answer>
+            <answer>20 кОм</answer>
+        </question>
+        <question>
+            <text>Прибор для измерения величины сопротивления изоляции</text>
+            <answer correct='1'>мегометр</answer>
+            <answer>люксметр</answer>
+            <answer>амперметр</answer>
+            <answer>вольтметр</answer>
+        </question>
+    </section>
+    <section>
+        <question>
+            <text>Первую медицинскую помощь пострадавшему от электрического тока необходимо оказывать</text>
+            <answer correct='1'>На месте происшествия</answer>
+            <answer>В медицинском кабинете</answer>
+            <answer>В специальном стационаре</answer>
+            <answer>В удобной светлой комнате</answer>
+        </question>
+        <question>
+            <text>Переносить пострадавшего от электрического тока с места происшествия для оказания помощи можно</text>
+            <answer correct='1'>Из-за темноты</answer>
+            <answer correct='1'>При дожде</answer>
+            <answer correct='1'>Если очень тесно</answer>
+            <answer>При отсутствии дыхания</answer>
+            <answer>При отсутствии пульса</answer>
+        </question>
+        <question>
+            <text>Состояние пострадавшего от действия тока оценивается по наличию</text>
+            <answer correct='1'>Дыхания</answer>
+            <answer correct='1'>Пульса</answer>
+            <answer correct='1'>Расширенного зрачка</answer>
+            <answer correct='1'>Суженного зрачка</answer>
+            <answer>Бледности кожных покровов</answer>
+        </question>
+        <question>
+            <text>Наличие дыхания у пострадавшего определяется по </text>
+            <answer correct='1'>Подъему грудной клетки</answer>
+            <answer>Движению ниточки поднесенной ко рту на глаз</answer>
+            <answer>Запотеванию зеркала у рта пострадавшего</answer>
+            <answer>Шевелению перышка, поднесенного ко рту</answer>
+        </question>
+        <question>
+            <text>Работа сердца у пострадавшего определяется по</text>
+            <answer correct='1'>Наличию пульса на сонной артерии</answer>
+            <answer correct='1'>Наличию пульса на лучевой артерии</answer>
+            <answer correct='1'>Расширенным зрачкам</answer>
+            <answer>Бледности кожных покровов</answer>
+            <answer>Подъему грудной клетки</answer>
+        </question>
+        <question>
+            <text>Диагноз «смерть» может поставить оказывающий помощь, если у пострадавшего</text>
+            <answer correct='1'>Нет головы</answer>
+            <answer correct='1'>Тело полностью обгорело</answer>
+            <answer>Отсутствует конечность</answer>
+            <answer>Нет признаков жизни</answer>
+            <answer>Нет пульса</answer>
+        </question>
+        <question>
+            <text>Пострадавшего приводят в сознание</text>
+            <answer correct='1'>Дав вату с нашатырным спиртом</answer>
+            <answer correct='1'>Побрызгав холодной водой лицо</answer>
+            <answer correct='1'>Растерев и согрев тело</answer>
+            <answer correct='1'>Слегка пошлепав по щекам</answer>
+            <answer>Раздев для охлаждения</answer>
+        </question>
+        <question>
+            <text>Пострадавшего приводят в сознание</text>
+            <answer correct='1'>Трупные пятна</answer>
+            <answer correct='1'>Окоченение тела</answer>
+            <answer>Отсутствие дыхания</answer>
+            <answer>Бледность кожных покровов</answer>
+            <answer>Отсутствие пульса</answer>
+        </question>
+        <question>
+            <text><![CDATA[Последовательность действий при выполнении искусственного дыхания:<ol>
+            <li>Оказывающий помощь отстраняется назад</li>
+            <li>Грудная клетка пострадавшего опускается</li>
+            <li>Зажать нос пострадавшего</li>
+            <li>Оказывающему помощь сделать глубокий вдох</li>
+            <li>С силой выдуть воздух в рот пострадавшего</li>
+            </ol>]]></text>
+            <answer correct='1'>4, 3, 5, 1, 2</answer>
+            <answer>1, 3, 5, 4, 2</answer>
+            <answer>1, 5, 3, 4, 2</answer>
+            <answer>4, 1, 5, 3, 2</answer>
+            <answer>5, 1, 4, 3, 2</answer>
+        </question>
+        <question>
+            <text>Оценка правильности действий при выполнении искусственного дыхания пострадавшему</text>
+            <answer correct='1'>На глаз по подъему грудной клетки</answer>
+            <answer>По цвету кожных покровов</answer>
+            <answer>По состоянию глазного зрачка</answer>
+            <answer>По появлению сердечных сокращений</answer>
+        </question>
+        <question>
+            <text>Взрослому человеку необходимо делать искусственное дыхание с частотой … вдуваний в минуту</text>
+            <answer correct='1'>10 – 12</answer>
+            <answer>3 – 4</answer>
+            <answer>6 – 8</answer>
+            <answer>15 – 18</answer>
+        </question>
+        <question>
+            <text>Непрямой массаж сердца должен чередоваться с</text>
+            <answer correct='1'>Искусственным дыханием</answer>
+            <answer>Освобождением рта от посторонних предметов</answer>
+            <answer>Осмотром зрачков глаз</answer>
+            <answer>Проверкой наличия пульса</answer>
+        </question>
+        <question>
+            <text>Признаки эффективности выполнения непрямого массажа сердца</text>
+            <answer correct='1'>Появление пульса на сонной артерии</answer>
+            <answer correct='1'>Сужение зрачков у пострадавшего</answer>
+            <answer correct='1'>Уменьшение синюшности кожи</answer>
+            <answer correct='1'>Появление самостоятельного дыхания</answer>
+            <answer>Расширение зрачков у пострадавшего</answer>
+        </question>
+        <question>
+            <text><![CDATA[Последовательность мер по оказанию 2-мя спасателями доврачебной помощи пострадавшему от тока:<ol>
+            <li>Сделать глубокое вдувание изо рта в рот</li>
+            <li>Отстраниться и дать опуститься грудной клетке</li>
+            <li>Уложить пострадавшего на горизонтальную поверхность</li>
+            <li>Запрокинуть голову назад, освободив рот от посторонних предметов</li>
+            <li>Ослабить стягивающую одежду</li>
+            <li>Произвести пять нажатий на грудную клетку</li>
+            </ol>]]></text>
+            <answer correct='1'>3, 5, 4, 1, 2, 6</answer>
+            <answer>4, 5, 3, 1, 2, 6</answer>
+            <answer>3, 1, 4, 5, 2, 6</answer>
+            <answer>3, 6, 4, 1, 2, 5</answer>
+            <answer>6, 5, 4, 1, 2, 3</answer>
+        </question>
+        <question>
+            <text>Режим оказания доврачебной помощи 2-мя спасателями: вдуваний  …  -  … нажатий на грудную клетку</text>
+            <answer correct='1'>1 - 5</answer>
+            <answer>2 - 5</answer>
+            <answer>1 - 10</answer>
+            <answer>2 - 15</answer>
+        </question>
+        <question>
+            <text>Беспламенное горение твердого вещества</text>
+            <answer correct='1'>тление</answer>
+            <answer>огонь</answer>
+            <answer>искры</answer>
+            <answer>дым</answer>
+        </question>
+        <question>
+            <text>Беспламенное горение твердого вещества</text>
+            <answer correct='1'>металлы</answer>
+            <answer correct='1'>гипсовые плиты</answer>
+            <answer correct='1'>неорганические материалы</answer>
+            <answer correct='1'>железобетон</answer>
+            <answer>дерево</answer>
+        </question>
+        <question>
+            <text>Процесс горения возможен, если имеются</text>
+            <answer correct='1'>горючее вещество</answer>
+            <answer correct='1'>источник зажигания</answer>
+            <answer correct='1'>окислитель</answer>
+            <answer>человек</answer>
+            <answer>огнетушитель</answer>
+        </question>
+        <question>
+            <text>Вещества, способные самовозгораться при контакте с воздухом</text>
+            <answer correct='1'>пирофорные</answer>
+            <answer>горючие</answer>
+            <answer>трудногорючие</answer>
+            <answer>негорючие</answer>
+        </question>
+        <question>
+            <text>Неконтролируемое горение вне специального очага, не наносящее материальный ущерб</text>
+            <answer correct='1'>загорание</answer>
+            <answer>пожар</answer>
+            <answer>взрыв</answer>
+            <answer>искры</answer>
+        </question>
+        <question>
+            <text>Наименьшая концентрация взрывоопасной смеси, при которой еще возможен взрыв – … концентрационный предел взрываемости</text>
+            <answer correct='1'>нижний</answer>
+            <answer>верхний</answer>
+            <answer>средний</answer>
+            <answer>крайний</answer>
+        </question>
+        <question>
+            <text>Время в часах от начала испытаний строительной конструкции огнем до появления разрушающих признаков</text>
+            <answer correct='1'>предел огнестойкости</answer>
+            <answer>огнестойкости</answer>
+            <answer>огнеупорность</answer>
+            <answer>предел огнеупорности</answer>
+        </question>
+        <question>
+            <text>Автоматические извещатели о пожаре по принципу действия подразделяются на</text>
+            <answer correct='1'>тепловые</answer>
+            <answer correct='1'>дымовые</answer>
+            <answer correct='1'>комбинированные</answer>
+            <answer correct='1'>световые</answer>
+            <answer>звуковые</answer>
+        </question>
+        <question>
+            <text>Чувствительный элемент в дымовых  извещателях о пожаре</text>
+            <answer correct='1'>ионизационная камера</answer>
+            <answer>биметаллическая пластинка</answer>
+            <answer>термосопротивление</answer>
+            <answer>термопара</answer>
+            <answer>счетчики фотонов</answer>
+        </question>
+        <question>
+            <text>Чувствительный элемент в дымовых  извещателях о пожаре</text>
+            <answer correct='1'>порошок</answer>
+            <answer correct='1'>углекислота</answer>
+            <answer correct='1'>песок</answer>
+            <answer>химическая пена</answer>
+            <answer>вода</answer>
+        </question>
+    </section>
+</test>

@@ -1,0 +1,1591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test timelimit='40' questions='24'>
+    <section>
+        <question>
+            <text>Безопасность жизнедеятельности  - наука о комфортном и травмобезопасном взаимодейст-вии человека с техносферой, она включает в себя вопросы:</text>
+            <answer correct='1'>охраны труда</answer>
+            <answer correct='1'>чрезвычайных ситуаций</answer>
+            <answer correct='1'>гражданской обороны</answer>
+            <answer correct='1'>экологической безопасности</answer>
+            <answer>биологической физики</answer>
+        </question>
+        <question>
+            <text>Охрана труда включает в себя следующие основные направления:</text>
+            <answer correct='1'>техника безопасности</answer>
+            <answer correct='1'>гигиена и производственная санитария</answer>
+            <answer correct='1'>пожарная безопасность</answer>
+            <answer correct='1'>разделы научной организации труда</answer>
+            <answer>медицинская техника</answer>
+        </question>
+        <question>
+            <text>Чрезвычайная ситуация - это:</text>
+            <answer correct='1'>состояние объекта, территории после ЧП, с угрозой жизни, здоровью людей</answer>
+            <answer>событие, происходящее обычно кратковременно с человеческими жертвами и ущербом</answer>
+            <answer>пожарная безопасность</answer>
+            <answer>разделы научной организации труда</answer>
+        </question>
+        <question>
+            <text>Чрезвычайное происшествие - это:</text>
+            <answer>состояние объекта, территории после ЧП, с угрозой жизни, здоровью людей</answer>
+            <answer correct='1'>событие, происходящее обычно кратковременно с человеческими жертвами и ущербом</answer>
+            <answer>безопасность в процессе труда</answer>
+            <answer>реализация риска</answer>
+        </question>
+        <question>
+            <text>Техника безопасности предотвращает воздействие на работающих ... производственных факторов.</text>
+            <answer>гигиенических</answer>
+            <answer correct='1'>опасных</answer>
+            <answer>санитарных</answer>
+            <answer>отравляющих</answer>
+        </question>
+        <question>
+            <text>Гигиена и производственная санитария изучают воздействие на работающих ...</text>
+            <answer>противопожарных средств</answer>
+            <answer correct='1'>окружающей производственной среды</answer>
+            <answer>средств безопасности</answer>
+            <answer>спецодежды и спецобуви</answer>
+        </question>
+        <question>
+            <text>Пожарная безопасность - состояние объекта, при котором с установленной вероятностью исключается возникновение ...</text>
+            <answer correct='1'>пожара</answer>
+            <answer>дыма</answer>
+            <answer>искр</answer>
+            <answer>электрической дуги</answer>
+        </question>
+        <question>
+            <text>Пожарная безопасность, в случае возникновения пожара, обеспечивает защиту:</text>
+            <answer correct='1'>людей</answer>
+            <answer correct='1'>материальных ценностей</answer>
+            <answer>окружающей среды</answer>
+            <answer>водоемов</answer>
+        </question>
+        <question>
+            <text>Охрана труда в РФ регулируется:</text>
+            <answer correct='1'>Конституцией</answer>
+            <answer correct='1'>кодексами законов о труде</answer>
+            <answer>медицинским перечнем профзаболеваний</answer>
+            <answer>актами о несчастных случаях</answer>
+            <answer correct='1'>системой стандартов безопасности труда</answer>
+        </question>
+        <question>
+            <text>Лица в возрасте от 18 до 18 лет должны работать в неделю</text>
+            <answer correct='1'>36 часов</answer>
+            <answer>24 часа</answer>
+            <answer>40 часов</answer>
+            <answer>20 часов</answer>
+        </question>
+        <question>
+            <text>Лица моложе 18 лет к сверхурочным работам</text>
+            <answer>допускаются в исключительных случаях</answer>
+            <answer>допускаются с разрешением администрации</answer>
+            <answer>допускаются с разрешением профсоюза</answer>
+            <answer correct='1'>не допускаются</answer>
+            <answer>допускаются</answer>
+        </question>
+        <question>
+            <text>Конструкция РФ гарантирует права граждан на:</text>
+            <answer>безвредные условия труда</answer>
+            <answer correct='1'>труд</answer>
+            <answer correct='1'>отдых</answer>
+            <answer correct='1'>пенсию по старости</answer>
+            <answer correct='1'>пенсию по болезни</answer>
+        </question>
+        <question>
+            <text>Кодексы законов о труде регулируют трудовые отношения</text>
+            <answer>между рабочими</answer>
+            <answer>между администрацией</answer>
+            <answer correct='1'>рабочих с администрацией</answer>
+            <answer>администрации с органами Госнадзора</answer>
+            <answer>рабочих с органами Госнадзора</answer>
+        </question>
+        <question>
+            <text>Юридическая ответственность за нарушения законодательства о труде бывает:</text>
+            <answer>моральная</answer>
+            <answer correct='1'>дисциплинарная</answer>
+            <answer correct='1'>административная</answer>
+            <answer correct='1'>материальная</answer>
+            <answer correct='1'>уголовная</answer>
+        </question>
+        <question>
+            <text>Дисциплинарная ответственность выражается в виде:</text>
+            <answer>перевода на нижеоплачиваемую работу</answer>
+            <answer correct='1'>замечания</answer>
+            <answer correct='1'>выговора</answer>
+            <answer>денежного штрафа</answer>
+            <answer correct='1'>строгого выговора</answer>
+        </question>
+        <question>
+            <text>Административная ответственность заключается в:</text>
+            <answer>вынесении выговора</answer>
+            <answer correct='1'>наложении денежного штрафа на администрацию</answer>
+            <answer>вынесении замечания</answer>
+            <answer>вынесении строгого выговора</answer>
+        </question>
+        <question>
+            <text>Материальная ответственность предусматривает возмещение виновником денежных сумм на:</text>
+            <answer>штраф за несчастный случай</answer>
+            <answer correct='1'>восстановление здоровья пострадавшему</answer>
+            <answer>компенсацию морального ущерба</answer>
+            <answer>премию пострадавшему</answer>
+        </question>
+        <question>
+            <text>Уголовная ответственность за нарушение законодательства о труде наступает при:</text>
+            <answer correct='1'>групповом несчастном случае</answer>
+            <answer>любом несчастном случае</answer>
+            <answer correct='1'>смертельном несчастном случае</answer>
+            <answer>нарушении внутреннего распорядка предприятия</answer>
+            <answer correct='1'>несчастном случае, приведшем к тяжелым последствиям</answer>
+        </question>
+        <question>
+            <text>Государственные органы надзора в своей деятельности ... от администрации предприятий</text>
+            <answer>зависят</answer>
+            <answer correct='1'>не зависят</answer>
+            <answer>зависят в особых случаях</answer>
+            <answer>не зависят в особых случаях</answer>
+        </question>
+        <question>
+            <text>Государственный надзор за безопасным ведением работ в промышленности и горный надзор осуществляет ...</text>
+            <answer>Госкомтруд</answer>
+            <answer>Госсаннадзор</answer>
+            <answer correct='1'>Госгортехнадзор</answer>
+            <answer>Госпожнадзор</answer>
+            <answer>Госэнергонадзор</answer>
+        </question>
+        <question>
+            <text>Государственный контроль за соблюдением противопожарного режима на предприятиях осуществляет ...</text>
+            <answer>Госкомтруд</answer>
+            <answer>Госсаннадзор</answer>
+            <answer>Госгортехнадзор</answer>
+            <answer correct='1'>Госпожнадзор</answer>
+            <answer>Госэнергонадзор</answer>
+        </question>
+        <question>
+            <text>Контроль за мероприятиями по предупреждению загрязнения окружающей среды осуществляет ...</text>
+            <answer>Госкомтруд</answer>
+            <answer correct='1'>Госсаннадзор</answer>
+            <answer>Госгортехнадзор</answer>
+            <answer>Госпожнадзор</answer>
+            <answer>Госэнергонадзор</answer>
+        </question>
+        <question>
+            <text>Надзор за соблюдением предприятиями «Правил устройства электроустановок» осуществляет ...</text>
+            <answer>Госкомтруд</answer>
+            <answer>Госсаннадзор</answer>
+            <answer>Госгортехнадзор</answer>
+            <answer>Госпожнадзор</answer>
+            <answer correct='1'>Госэнергонадзор</answer>
+        </question>
+        <question>
+            <text>Профсоюзный контроль за охраной труда на предприятии ведут ...</text>
+            <answer>Инженеры по охране труда</answer>
+            <answer correct='1'>Штатный технический инспектор от ЦК профсоюзов</answer>
+            <answer>Руководитель предприятия</answer>
+            <answer>Главный инженер</answer>
+            <answer correct='1'>Общественные инспекторы по охране труда</answer>
+        </question>
+        <question>
+            <text>Общественный инспектор по охране труда участвует в ...</text>
+            <answer>управлении производством</answer>
+            <answer correct='1'>расследовании несчастных случаев</answer>
+            <answer>руководстве предприятием</answer>
+            <answer>распределении премий</answer>
+        </question>
+        <question>
+            <text>Общественный инспектор по охране труда в своей деятельности от администрации предприятия ...</text>
+            <answer>не зависит</answer>
+            <answer correct='1'>зависит</answer>
+            <answer>зависит при маленькой зарплате</answer>
+            <answer>не зависит при большой зарплате</answer>
+        </question>
+        <question>
+            <text>Штатный технический инспектор ЦК профсоюза в своей деятельности от администрации предприятия ...</text>
+            <answer>зависит</answer>
+            <answer correct='1'>не зависит</answer>
+            <answer>зависит на крупных предприятиях</answer>
+            <answer>не зависит только на маленьких предприятиях</answer>
+        </question>
+        <question>
+            <text>Штатный технический инспектор ЦК профсоюза имеет право:</text>
+            <answer correct='1'>отстранять от работы не аттестованный по ТБ персонал</answer>
+            <answer>отстранять руководство предприятия</answer>
+            <answer correct='1'>опечатывать опасные для здоровья участки работ</answer>
+            <answer correct='1'>проверять состояние охраны труда</answer>
+            <answer correct='1'>роверять документацию по охране труда</answer>
+        </question>
+        <question>
+            <text>Система управления охраной труда на предприятии осуществляется в рамках</text>
+            <answer>инструктажа по ТБ</answer>
+            <answer correct='1'>трехступенчатого контроля</answer>
+            <answer>квалифицированных групп по электробезопасности</answer>
+            <answer>расследования несчастных случаев</answer>
+        </question>
+        <question>
+            <text>Вторая ступень трехступенчатого контроля за охраной труда осуществляется не реже одного раза в</text>
+            <answer>день</answer>
+            <answer correct='1'>месяц</answer>
+            <answer>квартал</answer>
+            <answer>год</answer>
+        </question>
+        <question>
+            <text>Третью ступень трехступенчатого контроля за охраной труда осуществляет комиссия в составе:</text>
+            <answer>пожарный инспектор</answer>
+            <answer correct='1'>главный инженер</answer>
+            <answer correct='1'>инженер по охране труда</answer>
+            <answer correct='1'>медицинский работник</answer>
+            <answer correct='1'>общественный инспектор по охране труда</answer>
+        </question>
+        <question>
+            <text>Принятое сокращение системы стандартов безопасности труда</text>
+            <answer>СГС</answer>
+            <answer>ГОСТ</answer>
+            <answer>СНиП</answer>
+            <answer correct='1'>ССБТ</answer>
+        </question>
+        <question>
+            <text>Система стандартов безопасности труда подразделяется на следующие категории стандартов:</text>
+            <answer correct='1'>республиканские</answer>
+            <answer>рабочего места</answer>
+            <answer correct='1'>предприятий</answer>
+            <answer correct='1'>отраслевые</answer>
+            <answer correct='1'>государственные</answer>
+        </question>
+        <question>
+            <text>Закон о Госпредприятии предписывает составление ... между профсоюзом и администрацией</text>
+            <answer>общих правил</answer>
+            <answer correct='1'>коллективного договора</answer>
+            <answer>соглашения</answer>
+            <answer>контракта</answer>
+        </question>
+        <question>
+            <text>Коллективный договор предусматривает мероприятия по</text>
+            <answer correct='1'>предупреждению несчастных случаев</answer>
+            <answer>повышению заработной платы</answer>
+            <answer>организации зрелищных мероприятий</answer>
+            <answer correct='1'>общему улучшению условий труда</answer>
+            <answer correct='1'>предупреждению профзаболеваний</answer>
+        </question>
+        <question>
+            <text>Виды инструктажа по технике безопасности:</text>
+            <answer correct='1'>вводный</answer>
+            <answer correct='1'>первичный</answer>
+            <answer correct='1'>повторный</answer>
+            <answer correct='1'>внеплановый</answer>
+            <answer correct='1'>целевой (текущий)</answer>
+        </question>
+        <question>
+            <text>Вводный инструктаж по технике безопасности проводит</text>
+            <answer>мастер</answer>
+            <answer correct='1'>специалист по охране труда</answer>
+            <answer>начальник цеха</answer>
+            <answer>бригадир</answer>
+        </question>
+        <question>
+            <text>Повторный инструктаж по ТБ регистрируется в</text>
+            <answer>контрольном листке</answer>
+            <answer correct='1'>журнале инструктажей</answer>
+            <answer>трудовой книжке</answer>
+            <answer>контракте</answer>
+        </question>
+        <question>
+            <text>Кто проводит проверку знаний требований  охраны труда в организации?</text>
+            <answer>руководитель организации</answer>
+            <answer>специалист по охране труда</answer>
+            <answer correct='1'>комиссия по проверке знаний требований охраны труда, назначенная приказом</answer>
+            <answer>руководитель организации совместно с руководителем по охране труда</answer>
+        </question>
+        <question>
+            <text>Квалификационное удостоверение группы по электробезопасности выдается</text>
+            <answer>всем пяти группам</answer>
+            <answer>только 5 группе</answer>
+            <answer correct='1'>всем, кроме 1 группы</answer>
+            <answer>начиная с 3 группы</answer>
+        </question>
+        <question>
+            <text>Квалификационное удостоверение группы по электробезопасности выдается</text>
+            <answer correct='1'>после сдачи экзамена по ТБ комиссии назначенной приказом</answer>
+            <answer>в зависимости от стажа работы</answer>
+            <answer>после повторного инструктажа</answer>
+            <answer>после первичного инструктажа</answer>
+        </question>
+        <question>
+            <text>Когда проводится вводный инструктаж по охране труда в организации?</text>
+            <answer correct='1'>при оформлении на работу</answer>
+            <answer>при перерыве в работе более 90 дней</answer>
+            <answer>после текущего инструктажа</answer>
+            <answer>после проверки знаний</answer>
+        </question>
+        <question>
+            <text>Производственная травма - это травма, полученная на производстве ...</text>
+            <answer>при выполнении непосредственных обязанностей</answer>
+            <answer correct='1'>при выполнении непосредственных обязанностей</answer>
+            <answer correct='1'>при выполнении работ по наряду</answer>
+            <answer correct='1'>при выполнении непосредственных обязанностей
+после работы по письменному распоряжению руководства</answer>
+            <answer>при выполнении работ, не связанных с непосредственными
+обязаностями во время рабочей смены</answer>
+        </question>
+        <question>
+            <text>Больничный лист по производственной травме оплачивается</text>
+            <answer>оплачивается в зависимости от вида травмы</answer>
+            <answer>не оплачивается</answer>
+            <answer>начиная с шестого дня болезни</answer>
+            <answer correct='1'>начиная с первого дня болезни</answer>
+        </question>
+        <question>
+            <text>Несчастным случаем на производстве называется случай при воздействии на работающего  ...  производственного фактора</text>
+            <answer>неблагоприятного</answer>
+            <answer>отравляющего</answer>
+            <answer>вредного</answer>
+            <answer correct='1'>опасного</answer>
+        </question>
+        <question>
+            <text>Групповой несчастный случай на производстве расследуют:</text>
+            <answer correct='1'>представитель администрации</answer>
+            <answer>медицинский работник</answer>
+            <answer correct='1'>старший общественный инспектор по охране труда</answer>
+            <answer correct='1'>инженер по технике безопасности</answer>
+            <answer correct='1'>технический инспектор ЦК профсоюза</answer>
+        </question>
+        <question>
+            <text>Методы анализа травматизма:</text>
+            <answer correct='1'>статистический</answer>
+            <answer correct='1'>групповой</answer>
+            <answer correct='1'>топографический</answer>
+            <answer correct='1'>монографический</answer>
+            <answer>политический</answer>
+        </question>
+        <question>
+            <text>Метод анализа травматизма, изучающий одинаковые по причинам повторяющиеся несчастные случаи</text>
+            <answer>статистический</answer>
+            <answer correct='1'>групповой</answer>
+            <answer>топографический</answer>
+            <answer>политический</answer>
+            <answer>обзорный</answer>
+        </question>
+        <question>
+            <text>Кто освобождается от прохождения вводного инструктажа при оформлении на работу?</text>
+            <answer>генеральный директор</answer>
+            <answer correct='1'>никто</answer>
+            <answer>специалист по охране труда</answer>
+            <answer>командировочные лица и студенты</answer>
+        </question>
+        <question>
+            <text>Кем расследуется несчастный случай, произошедший в результате аварии ТС?</text>
+            <answer>соответствующим государственным органом надзора</answer>
+            <answer>специалистом по охране труда</answer>
+            <answer correct='1'>комиссией, образованной работодателем
+с обязательным использованием материалов расследования, 
+проведенного органами надзора и контроля</answer>
+            <answer>комиссией, образованной работодателем
+с обязательным использованием материалов расследования, 
+проведенного органами надзора и контроля, с обязательным участием 
+го-сударственного инспектора по труду</answer>
+        </question>
+        <question>
+            <text>Кем осуществляется государственный контроль за соблюдением работодателями требований охраны труда?</text>
+            <answer>прокуратурой РФ</answer>
+            <answer correct='1'>всеми перечисленными</answer>
+            <answer>федеральной службой по экологическому, технологическому и атомному надзору</answer>
+            <answer>федеральной инспекцией труда</answer>
+        </question>
+        <question>
+            <text>Кем осуществляется общественный контроль за соблюдением работодателями требований охраны труда?</text>
+            <answer>объединением профсоюзов</answer>
+            <answer>комитетами по охране труда организации</answer>
+            <answer>прокуратурой РФ</answer>
+            <answer correct='1'>объединениями профессиональных союзов и комитетами по охране труда организации</answer>
+            <answer>федеральной службой по экологическому, технологическому и атомному надзору</answer>
+        </question>
+    </section>
+    <section>
+        <question>
+            <text>Параметры, характеризующие микроклимат производственного помещения по санитарным нормам</text>
+            <answer>электромагнитные поля</answer>
+            <answer correct='1'>температура</answer>
+            <answer correct='1'>относительная влажность</answer>
+            <answer correct='1'>скорость движения воздуха</answer>
+        </question>
+        <question>
+            <text>Способность организма человека сохранять постоянной температуру тела при изменении метеорологических условий</text>
+            <answer>термопластика</answer>
+            <answer correct='1'>терморегуляция</answer>
+            <answer>аэрация</answer>
+            <answer>инфильтрация</answer>
+        </question>
+        <question>
+            <text>Перегрев организма человека ведет к</text>
+            <answer correct='1'>нарушению водно-солевого баланса</answer>
+            <answer>простудным заболеваниям</answer>
+            <answer correct='1'>судорогам</answer>
+            <answer correct='1'>снижению работоспособности</answer>
+            <answer correct='1'>повышению температуры тела</answer>
+        </question>
+        <question>
+            <text>Повышенная влажность воздуха в сочетании с низкими температурами</text>
+            <answer correct='1'>увеличивает теплоотдачу</answer>
+            <answer>вызывает перегрев</answer>
+            <answer>вызывает потоотделение</answer>
+            <answer>ведет к высыханию слизистых</answer>
+            <answer correct='1'>ведет к простудам</answer>
+        </question>
+        <question>
+            <text>Сильная подвижность воздуха ведет к</text>
+            <answer correct='1'>простудам</answer>
+            <answer>уменьшению теплоотдачи</answer>
+            <answer correct='1'>переохлаждению</answer>
+            <answer>перегреву</answer>
+            <answer correct='1'>увеличению теплоотдачи</answer>
+        </question>
+        <question>
+            <text>Категории работ по энергозатратам по санитарным нормам</text>
+            <answer correct='1'>легкая работа</answer>
+            <answer>очень легкая работа</answer>
+            <answer correct='1'>работа средней тяжести</answer>
+            <answer>очень тяжелая работа</answer>
+            <answer correct='1'>тяжелая работа</answer>
+        </question>
+        <question>
+            <text>Вредные вещества по степени воздействия на организм человека подразделяются на</text>
+            <answer correct='1'>чрезвычайно опасные</answer>
+            <answer correct='1'>высокоопасные</answer>
+            <answer correct='1'>умеренно опасные</answer>
+            <answer>неопасные</answer>
+            <answer correct='1'>малоопасные</answer>
+        </question>
+        <question>
+            <text>Воздействие вредного вещества на организм человека оценивается с помощью</text>
+            <answer>ПДУ</answer>
+            <answer>ППЭ</answer>
+            <answer>ППМ</answer>
+            <answer correct='1'>ПДК</answer>
+        </question>
+        <question>
+            <text>Воздействие вредного вещества на организм человека оценивается с помощью</text>
+            <answer>мг/м^3</answer>
+            <answer>мг/м</answer>
+            <answer correct='1'>мг/кг</answer>
+            <answer>мг/м^2</answer>
+        </question>
+        <question>
+            <text>Прибор, измеряющий скоростной напор, воздушное давление в  канале воздуховода</text>
+            <answer>психрометр</answer>
+            <answer>барометр</answer>
+            <answer>кататермометр</answer>
+            <answer correct='1'>манометр</answer>
+            <answer>гигрометр</answer>
+        </question>
+        <question>
+            <text>Более точные показания температуры дает</text>
+            <answer>спиртовой термометр</answer>
+            <answer>манометр</answer>
+            <answer>кататермометр</answer>
+            <answer correct='1'>ртутный термометр</answer>
+        </question>
+        <question>
+            <text>Более точные показания температуры дает</text>
+            <answer correct='1'>аэрация</answer>
+            <answer>рециркуляция</answer>
+            <answer>приточная</answer>
+            <answer correct='1'>инфильтрация</answer>
+            <answer>вытяжная</answer>
+        </question>
+        <question>
+            <text>Вентиляция помещений с выделением вредных веществ</text>
+            <answer correct='1'>приточно-вытяжная</answer>
+            <answer>рециркуляция</answer>
+            <answer correct='1'>местная</answer>
+            <answer>приточная</answer>
+            <answer correct='1'>вытяжная</answer>
+        </question>
+        <question>
+            <text>Кратность воздухообмена – это отношение ... к объему помещения</text>
+            <answer>удаляемых теплоизбытков</answer>
+            <answer>выделяемых вредных веществ</answer>
+            <answer>выделяемых теплоизбытков</answer>
+            <answer correct='1'>часового количества воздуха</answer>
+        </question>
+        <question>
+            <text>Необходимое количество вентиляционного воздуха для однонаправленных вредных выделений считается</text>
+            <answer>по наименьшей вредности</answer>
+            <answer>по наибольшей вредности</answer>
+            <answer>отдельно для каждой вредности</answer>
+            <answer correct='1'>по закону суммации</answer>
+        </question>
+        <question>
+            <text>Шум – это:</text>
+            <answer>беспорядочное сочетание звуков</answer>
+            <answer>инфразвуковые колебания</answer>
+            <answer>ультразвуковые колебания</answer>
+            <answer correct='1'>нежелательный комплекс звуков</answer>
+        </question>
+        <question>
+            <text>Диапазон слухового восприятия звуков</text>
+            <answer correct='1'>от 20 до 20000 Гц</answer>
+            <answer>до 20 Гц</answer>
+            <answer>более 20000 Гц</answer>
+            <answer>более 20 ГГц</answer>
+        </question>
+        <question>
+            <text>Единица измерения уровня интенсивности звука</text>
+            <answer correct='1'>дБ</answer>
+            <answer>Вт/м^2</answer>
+            <answer>Па</answer>
+            <answer>Гц</answer>
+        </question>
+        <question>
+            <text>Наименьшая интенсивность звука, при которой возникает слуховое ощущение</text>
+            <answer correct='1'>пороговая</answer>
+            <answer>пограничная</answer>
+            <answer>октавная</answer>
+            <answer>дискретная</answer>
+        </question>
+        <question>
+            <text>Область производственных шумов – появление вредных физиологических изменений в организме человека</text>
+            <answer>0 - 20 дБ</answer>
+            <answer correct='1'>80 - 120 дБ</answer>
+            <answer>20 - 40 дБ</answer>
+            <answer>40 - 70 дБ</answer>
+            <answer>80 - 1200 дБ</answer>
+        </question>
+        <question>
+            <text>Более вредным для человека является шум</text>
+            <answer>равномерный</answer>
+            <answer correct='1'>информационный</answer>
+            <answer>постоянный</answer>
+            <answer>хаотический</answer>
+        </question>
+        <question>
+            <text>Более вредными для человека являются одинаковые по интенсивности шумы</text>
+            <answer>низкочастотные</answer>
+            <answer>равномерные</answer>
+            <answer correct='1'>высокочастотные</answer>
+            <answer>постоянно</answer>
+        </question>
+        <question>
+            <text>Основные способы защиты от шума</text>
+            <answer>питание аппаратуры</answer>
+            <answer correct='1'>средства индивидуальной защиты</answer>
+            <answer correct='1'>звукоизоляция</answer>
+            <answer correct='1'>звукопоглощение</answer>
+            <answer correct='1'>устранение шума в самом источнике</answer>
+        </question>
+        <question>
+            <text><![CDATA[Коэффициент звукопроводности определяется:<ol>
+            <li><img src='img_3_1.png'></li>
+            <li><img src='img_3_2.png'></li>
+            <li><img src='img_3_3.png'></li>
+            <li><img src='img_3_4.png'></li>
+            </ol>]]></text>
+            <answer correct='1'>1</answer>
+            <answer>2</answer>
+            <answer>3</answer>
+            <answer>4</answer>
+        </question>
+        <question>
+            <text>Звукопоглощающие материалы</text>
+            <answer>металл</answer>
+            <answer correct='1'>вата</answer>
+            <answer correct='1'>войлок</answer>
+            <answer correct='1'>резина</answer>
+            <answer correct='1'>поролон</answer>
+        </question>
+        <question>
+            <text>Степень воздействия электромагнитных полей на человека зависит от</text>
+            <answer>области применения</answer>
+            <answer correct='1'>частоты</answer>
+            <answer correct='1'>мощности излучения</answer>
+            <answer correct='1'>продолжительности действия</answer>
+            <answer correct='1'>режима излучения (непрерывное или импульсное)</answer>
+        </question>
+        <question>
+            <text>Ионизирующие излучения</text>
+            <answer correct='1'>рентгеновские лучи</answer>
+            <answer correct='1'>гамма-лучи</answer>
+            <answer correct='1'>альфа- и бета-частицы</answer>
+            <answer correct='1'>позитроны, нейтроны</answer>
+            <answer>лазерные лучи</answer>
+        </question>
+        <question>
+            <text>Опасность при работе с лазерами представляет</text>
+            <answer correct='1'>прямое излучение</answer>
+            <answer correct='1'>отраженное излучение</answer>
+            <answer correct='1'>шум</answer>
+            <answer correct='1'>нервно-эмоциональная нагрузка</answer>
+            <answer>радиоактивность</answer>
+        </question>
+        <question>
+            <text>Ультрафиолетовые лучи образуются при</text>
+            <answer>работе громкоговорителей</answer>
+            <answer correct='1'>сварке</answer>
+            <answer correct='1'>электроплавке металла</answer>
+            <answer correct='1'>солнечном свете</answer>
+            <answer>работе радиопередающих антенн</answer>
+        </question>
+        <question>
+            <text>Влияние на организм человека электромагнитных полей радиочастот большой интенсивности вызывает в основном</text>
+            <answer>похудение</answer>
+            <answer correct='1'>тепловой эффект</answer>
+            <answer>угнетенное состояние</answer>
+            <answer>выпадение волос</answer>
+        </question>
+        <question>
+            <text>Биологическая активность электромагнитных полей радиочастот возрастает</text>
+            <answer>с увеличением длины волны</answer>
+            <answer correct='1'>с уменьшением длины волны</answer>
+            <answer>при импульсном излучении</answer>
+            <answer>при использовании защитных средств</answer>
+        </question>
+        <question>
+            <text>Лазерное излучение опасно в первую очередь для</text>
+            <answer>мышц</answer>
+            <answer correct='1'>глаз</answer>
+            <answer>костей</answer>
+            <answer>крови</answer>
+            <answer correct='1'>кожи</answer>
+        </question>
+        <question>
+            <text>Интенсивность облучения в диапазоне частот 60 кГц – 300 МГц нормируется по</text>
+            <answer>Е</answer>
+            <answer>Н</answer>
+            <answer>ППЭ</answer>
+            <answer correct='1'>Е и Н</answer>
+        </question>
+        <question>
+            <text>Интенсивность облучения в диапазоне частот 300 МГц – 300 ГГц нормируется по</text>
+            <answer>В/м</answer>
+            <answer>А/м</answer>
+            <answer>В/ч</answer>
+            <answer correct='1'>Вт/см^2</answer>
+        </question>
+        <question>
+            <text>ППЭ = W/T, где W – это ...</text>
+            <answer>мощность излучающего генератора</answer>
+            <answer>мощность передающей антенны</answer>
+            <answer correct='1'>допустимая энергетическая нагрузка на организм</answer>
+            <answer>частота излучения</answer>
+        </question>
+        <question>
+            <text>Защита от лазерного излучения</text>
+            <answer>экранирование</answer>
+            <answer correct='1'>знак лазерной опасности</answer>
+            <answer>дезактивация</answer>
+            <answer correct='1'>отсутствие в помещении зеркальных поверхностей</answer>
+            <answer correct='1'>специальные защитные очки</answer>
+        </question>
+        <question>
+            <text><![CDATA[
+            Выберите верное соответствие названий и формул светотехнических величин. Величины:<ol>
+            <li>Освещённость</li>
+            <li>Сила света</li>
+            <li>Контраст объекта</li>
+            <li>Коэффициент поглощения</li>
+            <li>Яркость</li>
+            </ol>
+            Формулы:<ol type='a'>
+            <li><img src='img_3_7.png'></li>
+            <li><img src='img_3_6.png'></li>
+            <li><img src='img_3_9.png'></li>
+            <li><img src='img_3_5.png'></li>
+            <li><img src='img_3_8.png'></li>
+            </ol>
+            ]]></text>
+            <answer correct='1'>1d, 2b, 3a, 4e, 5c</answer>
+            <answer>1b, 2c, 3a, 4e, 5d</answer>
+            <answer>1d, 2c, 3a, 4b, 5e</answer>
+            <answer>1c, 2b, 3e, 4a, 5d</answer>
+        </question>
+        <question>
+            <text>Недостатки ламп накаливания</text>
+            <answer>теряют световой поток со временем</answer>
+            <answer correct='1'>малый срок службы</answer>
+            <answer>дают стробоскопический эффект</answer>
+            <answer correct='1'>низкая световая отдача</answer>
+            <answer correct='1'>спектр отличается от солнечного</answer>
+        </question>
+        <question>
+            <text>Достоинства газоразрядных ламп</text>
+            <answer correct='1'>любой цветовой спектр</answer>
+            <answer>шум</answer>
+            <answer>необходимы пусковые устройства</answer>
+            <answer correct='1'>высокая светоотдача</answer>
+            <answer correct='1'>большой срок службы</answer>
+        </question>
+        <question>
+            <text>Стробоскопический эффект ведет к искажению зрительного восприятия</text>
+            <answer correct='1'>направления движения объекта</answer>
+            <answer>размеров детали</answer>
+            <answer>формы детали</answer>
+            <answer>цвета детали</answer>
+            <answer correct='1'>скорости вращения</answer>
+        </question>
+        <question>
+            <text>Освещение, при котором естественный свет дополняется искусственным</text>
+            <answer correct='1'>совмещенное</answer>
+            <answer>комбинированное</answer>
+            <answer>равномерное</answer>
+            <answer>общее</answer>
+        </question>
+        <question>
+            <text>Питание светильников аварийного освещения осуществляется от</text>
+            <answer correct='1'>автономного источника</answer>
+            <answer>общей городской сети</answer>
+            <answer>сети повышенной частоты</answer>
+            <answer>сети пониженной частоты</answer>
+        </question>
+        <question>
+            <text>Нормирование естественного освещения производится по</text>
+            <answer correct='1'>коэффициенту естественного освещения</answer>
+            <answer>минимальной освещенности рабочей поверхности</answer>
+            <answer>максмальной освещенности рабочей поверхности</answer>
+            <answer>коэффициенту отражения рабочей поверхности</answer>
+        </question>
+        <question>
+            <text>Нормирование искусственного освещения производится по</text>
+            <answer>коэффициенту естественного освещения</answer>
+            <answer correct='1'>минимальной освещенности рабочей поверхности</answer>
+            <answer>максмальной освещенности рабочей поверхности</answer>
+            <answer>коэффициенту отражения рабочей поверхности</answer>
+        </question>
+        <question>
+            <text>КЕО изменится соответствующим образом, если наружная освещенность увеличится в 2 раз</text>
+            <answer>увеличится в 2 раза</answer>
+            <answer correct='1'>не изменится</answer>
+            <answer>уменьшится в 2 раза</answer>
+            <answer>уменьшится пропорционально загрязнению окон</answer>
+        </question>
+    </section>
+    <section>
+        <question>
+            <text>Первую медицинскую помощь пострадавшему от электрического тока необходимо оказывать</text>
+            <answer>в медицинском кабинете</answer>
+            <answer correct='1'>на месте происшествия</answer>
+            <answer>в специальном стационаре</answer>
+            <answer>в удобной светлой комнате</answer>
+        </question>
+        <question>
+            <text>Переносить пострадавшего от электрического тока с места происшествия для оказания помощи можно</text>
+            <answer correct='1'>из-за темноты</answer>
+            <answer correct='1'>при дожде</answer>
+            <answer correct='1'>если очень тесно</answer>
+            <answer>при отсутствии дыхания</answer>
+            <answer>при отсутствии пульса</answer>
+        </question>
+        <question>
+            <text>Состояние пострадавшего от действия тока оценивается по наличию</text>
+            <answer correct='1'>дыхания</answer>
+            <answer correct='1'>пульса</answer>
+            <answer correct='1'>расширенного зрачка</answer>
+            <answer>бледности кожных покровов</answer>
+            <answer correct='1'>суженного зрачка</answer>
+        </question>
+        <question>
+            <text>Наличие дыхания у пострадавшего определяется по</text>
+            <answer>движению ниточки поднесенной ко рту на глаз</answer>
+            <answer>запотеванию зеркала у рта пострадавшего</answer>
+            <answer correct='1'>подъему грудной клетки</answer>
+            <answer>шевелению перышка, поднесенного ко рту</answer>
+        </question>
+        <question>
+            <text>Работа сердца у пострадавшего определяется по</text>
+            <answer correct='1'>наличию пульса на сонной артерии</answer>
+            <answer correct='1'>наличию пульса на лучевой артерии</answer>
+            <answer correct='1'>расширенным зрачкам</answer>
+            <answer>бледности кожных покровов</answer>
+            <answer>подъему грудной клетки</answer>
+        </question>
+        <question>
+            <text>Диагноз «смерть» может поставить оказывающий помощь, если у пострадавшего</text>
+            <answer correct='1'>нет головы</answer>
+            <answer>отстутствует конечность</answer>
+            <answer correct='1'>тело полностью обгорело</answer>
+            <answer>нет признаков жизни</answer>
+            <answer>нет пульса</answer>
+        </question>
+        <question>
+            <text>Пострадавшего приводят в сознание</text>
+            <answer correct='1'>дав вату с нашатырным спиртом</answer>
+            <answer correct='1'>побрызгав холодной водой лицо</answer>
+            <answer correct='1'>растерев и согрев тело</answer>
+            <answer correct='1'>слегка пошлепав по щекам</answer>
+            <answer>раздев для охлаждения</answer>
+        </question>
+        <question>
+            <text>Достоверные признаки необратимой смерти</text>
+            <answer correct='1'>трупные пятна</answer>
+            <answer>отсутствие дыхания</answer>
+            <answer correct='1'>окоченение тела</answer>
+            <answer>отсутствие пульса</answer>
+            <answer>бледность кожных покровов</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите верную последовательность действий при выполнении искусственного дыхания. Действия:<ol>
+            <li>С силой выдуть воздух в рот пострадавшего</li>
+            <li>Зажать нос пострадавшего</li>
+            <li>Оказывающий помощь отстраняется назад</li>
+            <li>Грудная клетка пострадавшего опускается</li>
+            <li>Оказывающему помощь сделать глубокий вдох</li>
+            </ol>
+            ]]></text>
+            <answer correct='1'>5, 2, 1, 3, 4</answer>
+            <answer>5, 2, 1, 4, 3</answer>
+            <answer>5, 2, 3, 4, 1</answer>
+            <answer>2, 5, 1, 3, 4</answer>
+            <answer>нет правильной последовательности</answer>
+        </question>
+        <question>
+            <text>Оценка правильности действий при выполнении искусственного дыхания пострадавшему</text>
+            <answer>по цвету кожных покровов</answer>
+            <answer>по состоянию глазного зрачка</answer>
+            <answer correct='1'>на глаз по подъему грудной клетки</answer>
+            <answer>по появлению сердечных сокращений</answer>
+        </question>
+        <question>
+            <text>Взрослому человеку необходимо делать искусственное дыхание с частотой ... вдуваний в минуту</text>
+            <answer>3 - 4</answer>
+            <answer>5 - 7</answer>
+            <answer correct='1'>10 - 12</answer>
+            <answer>15 - 18</answer>
+        </question>
+        <question>
+            <text>Непрямой массаж сердца должен чередоваться с</text>
+            <answer>освобождением рта от посторонних предметов</answer>
+            <answer correct='1'>искусственным дыханием</answer>
+            <answer>проверкой наличия пульса</answer>
+            <answer>осмотром зрачков глаз</answer>
+        </question>
+        <question>
+            <text>Признаки эффективности выполнения непрямого массажа сердца</text>
+            <answer correct='1'>появление пульса на сонной артерии</answer>
+            <answer correct='1'>сужение зрачков у пострадавшего</answer>
+            <answer correct='1'>уменьшение синюшности кожи</answer>
+            <answer correct='1'>появление самостоятельного дыхания</answer>
+            <answer>расширение значков у пострадавшего</answer>
+        </question>
+        <question>
+            <text><![CDATA[ Выберите верную последовательность мер по оказанию 2-мя спасателями доврачебной помощи пострадавшему от тока. Действия:<ol>
+            <li>Произвести пять нажатий на грудную клетку</li>
+            <li>Уложить пострадавшего на горизонтальную поверхность</li>
+            <li>Ослабить стягивающую одежду</li>
+            <li>Отстраниться и дать опуститься грудной клетке</li>
+            <li>Сделать глубокое вдувание изо рта в рот</li>
+            <li>Запрокинуть голову назад, освободив рот от посторонних предметов</li>
+            </ol>]]></text>
+            <answer correct='1'>2, 3, 6, 5, 4, 1</answer>
+            <answer>5, 2, 1, 4, 3, 6</answer>
+            <answer>5, 2, 3, 4, 6, 1</answer>
+            <answer>2, 5, 6, 1, 3, 4</answer>
+            <answer>нет правильной последовательности</answer>
+        </question>
+        <question>
+            <text>Режим оказания доврачебной помощи 2-мя спасателями: вдуваний ... - ... нажатий на грудную клетку</text>
+            <answer>2 - 5</answer>
+            <answer correct='1'>1 - 5</answer>
+            <answer>1 - 10</answer>
+            <answer>2 - 15</answer>
+        </question>
+        <question>
+            <text>Беспламенное горение твердого вещества</text>
+            <answer correct='1'>тление</answer>
+            <answer>огонь</answer>
+            <answer>искры</answer>
+            <answer>дым</answer>
+        </question>
+        <question>
+            <text>Негорючие материалы</text>
+            <answer correct='1'>металлы</answer>
+            <answer correct='1'>гипсовые плиты</answer>
+            <answer correct='1'>неорганические материалы</answer>
+            <answer correct='1'>железобетон</answer>
+            <answer>дерево</answer>
+        </question>
+        <question>
+            <text>Процесс горения возможен, если имеются</text>
+            <answer correct='1'>горючее вещество</answer>
+            <answer correct='1'>источник зажигания</answer>
+            <answer correct='1'>окислитель</answer>
+            <answer>человек</answer>
+            <answer>огнетушитель</answer>
+        </question>
+        <question>
+            <text>Вещества, способные самовозгораться при контакте с воздухом</text>
+            <answer correct='1'>пирофорные</answer>
+            <answer>горючие</answer>
+            <answer>трудногорючие</answer>
+            <answer>негорючие</answer>
+        </question>
+        <question>
+            <text>Неконтролируемое горение вне специального очага, не наносящее материальный ущерб</text>
+            <answer correct='1'>загорание</answer>
+            <answer>пожар</answer>
+            <answer>взрыв</answer>
+            <answer>искры</answer>
+        </question>
+        <question>
+            <text>Наименьшая концентрация взрывоопасной смеси, при которой еще возможен взрыв – ... концентрационный предел взрываемости</text>
+            <answer correct='1'>нижний</answer>
+            <answer>верхний</answer>
+            <answer>средний</answer>
+            <answer>крайний</answer>
+        </question>
+        <question>
+            <text>Время в часах от начала испытаний строительной конструкции огнем до появления разрушающих признаков</text>
+            <answer>огнестойкость</answer>
+            <answer>огнеупорность</answer>
+            <answer>предел огнеупорность</answer>
+            <answer correct='1'>предел огнестойкости</answer>
+        </question>
+        <question>
+            <text>Автоматические извещатели о пожаре по принципу действия подразделяются на</text>
+            <answer>звуковые</answer>
+            <answer correct='1'>тепловые</answer>
+            <answer correct='1'>дымовые</answer>
+            <answer correct='1'>комбинированные</answer>
+            <answer correct='1'>световые</answer>
+        </question>
+        <question>
+            <text>Чувствительный элемент в дымовых  извещателях о пожаре</text>
+            <answer>биметаллическая пластинка</answer>
+            <answer>термосопротивление</answer>
+            <answer>термопара</answer>
+            <answer correct='1'>ионизационная камера</answer>
+            <answer>счетчики фотонов</answer>
+        </question>
+        <question>
+            <text>Средства тушения пожаров в помещениях с электроустановками</text>
+            <answer>вода</answer>
+            <answer correct='1'>порошок</answer>
+            <answer correct='1'>углекислота</answer>
+            <answer>химическая пена</answer>
+            <answer correct='1'>песок</answer>
+        </question>
+    </section>
+    <section>
+        <question>
+            <text>Эргономика изучает деятельность человека в системе</text>
+            <answer correct='1'>Человек – машина – производственная среда</answer>
+            <answer>Машина – производственная среда</answer>
+            <answer>Производственная среда</answer>
+            <answer>Человек – органы управления</answer>
+        </question>
+        <question>
+            <text>Эргономика под “машиной” понимает</text>
+            <answer correct='1'>Орудия труда</answer>
+            <answer>Параметры микроклимата</answer>
+            <answer>Потоки информации</answer>
+            <answer>Шум, вибрацию</answer>
+            <answer>Распоряжения руководства</answer>
+        </question>
+        <question>
+            <text>Правильное цветовое оформление производственного помещения и оборудования</text>
+            <answer correct='1'>Снижает утомляемость</answer>
+            <answer correct='1'>Улучшает настроение</answer>
+            <answer correct='1'>Уменьшает опасность травматизма</answer>
+            <answer correct='1'>Повышает производительность</answer>
+            <answer>Действует раздражающе</answer>
+        </question>
+        <question>
+            <text>Красный цвет по технике безопасности сигнализирует</text>
+            <answer correct='1'>Об опасности</answer>
+            <answer correct='1'>О запрещении</answer>
+            <answer>О необходимости внимания</answer>
+            <answer>О разрешении</answer>
+            <answer>О безопасности</answer>
+        </question>
+        <question>
+            <text>Окраске в красные цвета подлежат</text>
+            <answer correct='1'>Кнопки «Стоп»</answer>
+            <answer correct='1'>Рукоятки выключения</answer>
+            <answer correct='1'>Тормозные устройства</answer>
+            <answer correct='1'>Противопожарное оборудование</answer>
+            <answer>Заземляющие провода</answer>
+        </question>
+        <question>
+            <text>Окраске в черный цвет по технике безопасности подлежат</text>
+            <answer correct='1'>Заземляющие провода, шины</answer>
+            <answer>Противопожарное оборудование</answer>
+            <answer>Кнопки «Стоп»</answer>
+            <answer>Сигнальные лампы</answer>
+        </question>
+        <question>
+            <text><![CDATA[Укажите опасное для оператора размещение ПЭВМ:<ol>
+            <li><img src='img_2_3.png' width='300'></li>
+            <li><img src='img_2_2.png' width='300'></li>
+            <li><img src='img_2_1.png' width='300'></li>
+            <li><img src='img_2_4.png' width='300'></li>
+            </ol>]]></text>
+            <answer correct='1'>2</answer>
+            <answer correct='1'>3</answer>
+            <answer>1</answer>
+            <answer>4</answer>
+        </question>
+        <question>
+            <text><![CDATA[Укажите рациональное размещение ПЭВМ с учётом взаимного экранирования:<ol>
+            <li><img src='img_2_8.png' width='300'></li>
+            <li><img src='img_2_6.png' width='300'></li>
+            <li><img src='img_2_7.png' width='300'></li>
+            <li><img src='img_2_5.png' width='300'></li>
+            </ol>]]></text>
+            <answer correct='1'>4</answer>
+            <answer>1</answer>
+            <answer>2</answer>
+            <answer>3</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите оптимальное расположение ПЭВМ:<ol>
+            <li><img src='img_2_5.png' width='300'></li>
+            <li><img src='img_2_6.png' width='300'></li>
+            <li><img src='img_2_3.png' width='300'></li>
+            <li><img src='img_2_4.png' width='300'></li>
+            </ol>]]></text>
+            <answer correct='1'>3</answer>
+            <answer correct='1'>4</answer>
+            <answer>1</answer>
+            <answer>2</answer>
+        </question>
+        <question>
+            <text><![CDATA[Зона досягаемости "1" для органов управления и средств отображения<br><img src='img_2_9.png'>]]></text>
+            <answer correct='1'>Наиболее важных  и часто используемых</answer>
+            <answer>Часто используемых</answer>
+            <answer>Редко используемых</answer>
+            <answer>Вспомогательных</answer>
+        </question>
+        <question>
+            <text>Антропометрические данные человека</text>
+            <answer correct='1'>Рост</answer>
+            <answer correct='1'>Длина руки</answer>
+            <answer correct='1'>Длина ноги</answer>
+            <answer correct='1'>Размеры кисти руки</answer>
+            <answer>Здоровье органов</answer>
+        </question>
+        <question>
+            <text>Оптимальная зона досягаемости моторного поля предназначена для размещения органов управления</text>
+            <answer correct='1'>Очень часто используемых и наиболее важных</answer>
+            <answer>Часто используемых</answer>
+            <answer>Редко используемых</answer>
+            <answer>Вспомогательных</answer>
+        </question>
+        <question>
+            <text>Ручные органы управления</text>
+            <answer correct='1'>Клавиши</answer>
+            <answer correct='1'>Кнопки</answer>
+            <answer correct='1'>Тумблеры</answer>
+            <answer correct='1'>Переключатели</answer>
+            <answer>Педали</answer>
+        </question>
+        <question>
+            <text>Кодирование информации в органах управления может осуществляться</text>
+            <answer correct='1'>Цветом</answer>
+            <answer correct='1'>Буквой</answer>
+            <answer correct='1'>Цифрой</answer>
+            <answer correct='1'>Формой</answer>
+            <answer>Временем срабатывания</answer>
+        </question>
+    </section>
+    <section>
+        <question>
+            <text>Виды местных электротравм</text>
+            <answer correct='1'>ожоги</answer>
+            <answer correct='1'>электрические знаки</answer>
+            <answer correct='1'>металлизация кожи</answer>
+            <answer correct='1'>электроофтальмия</answer>
+            <answer>электрический удар</answer>
+        </question>
+        <question>
+            <text>Травма, в результате которой вглубь кожи проникают пары металла от электрической дуги</text>
+            <answer correct='1'>металлизация кожи</answer>
+            <answer>дуговой ожог</answer>
+            <answer>электрический знак</answer>
+            <answer>токовый ожог</answer>
+        </question>
+        <question>
+            <text>Порог неотпускающего тока частотой 50 Гц</text>
+            <answer correct='1'>15 мА</answer>
+            <answer>0,1 мА</answer>
+            <answer>1 мА</answer>
+            <answer>100 мА</answer>
+            <answer>20 мА</answer>
+        </question>
+        <question>
+            <text>Основное сопротивление электрическому току в теле человека оказывает</text>
+            <answer correct='1'>роговой слой кожи</answer>
+            <answer>кости</answer>
+            <answer>хрящи</answer>
+            <answer>жировая ткань</answer>
+        </question>
+        <question>
+            <text>Пути тока в теле человека, представляющие наибольшую опасность</text>
+            <answer correct='1'>голова – руки</answer>
+            <answer correct='1'>голова – ноги</answer>
+            <answer>рука – рука</answer>
+            <answer>нога – нога</answer>
+            <answer>левая рука – ноги</answer>
+        </question>
+        <question>
+            <text>Радиус зоны растекания тока</text>
+            <answer correct='1'>20 м</answer>
+            <answer>10 м</answer>
+            <answer>40 м</answer>
+            <answer>100 м</answer>
+        </question>
+        <question>
+            <text>Точки почвы, лежащие вне зоны растекания тока, называются</text>
+            <answer correct='1'>электротехническая «земля»</answer>
+            <answer>многослойная земля</answer>
+            <answer>однородная земля</answer>
+            <answer>неоднородная земля</answer>
+        </question>
+        <question>
+            <text>Напряжение прикосновения – это разность потенциалов между</text>
+            <answer correct='1'>рукой и ногами человека</answer>
+            <answer>руками</answer>
+            <answer>ногами</answer>
+            <answer>ногами и заземлением</answer>
+        </question>
+        <question>
+            <text><![CDATA[Ток через тело человека при V=220В; Rиз=20 кОм;  Rзам &lt;&lt; Rh  равен:<br><img src='img_4_1.png'>]]></text>
+            <answer correct='1'>220 мА</answer>
+            <answer>50 мА</answer>
+            <answer>110 мА</answer>
+            <answer>440 мА</answer>
+        </question>
+        <question>
+            <text><![CDATA[Зависимость тока через тело человека Ih=f(Rиз), если C=0<br><img src='img_4_2.png'><img src=':/img/img/img_4_3'.png>]]></text>
+            <answer correct='1'>а</answer>
+            <answer>б</answer>
+            <answer>в</answer>
+            <answer>г</answer>
+            <answer>д</answer>
+        </question>
+        <question>
+            <text><![CDATA[Прикосновение наиболее опасно при r_зам &lt;&lt; Rh<br><img src='img_4_4.png'>]]></text>
+            <answer correct='1'>3</answer>
+            <answer>1</answer>
+            <answer>2</answer>
+            <answer>4</answer>
+            <answer>5</answer>
+        </question>
+        <question>
+            <text><![CDATA[Зависимость тока через тело человека Ih = f(c), Rиз = ∞<br><img src='img_4_5.png'>]]></text>
+            <answer correct='1'>в</answer>
+            <answer>а</answer>
+            <answer>б</answer>
+            <answer>г</answer>
+            <answer>д</answer>
+        </question>
+        <question>
+            <text><![CDATA[Зависимость тока через тело человека Ih = f(Rиз), C = 0<br><img src='img_4_6.png'>]]></text>
+            <answer correct='1'>Uл = 380 В</answer>
+            <answer correct='1'>Uф = 220 В</answer>
+            <answer>Uл = 220 В</answer>
+            <answer>Uф = 380 В</answer>
+            <answer>Uл = 380 - 220 В</answer>
+        </question>
+        <question>
+            <text><![CDATA[Маркировка напряжения трехфазной сети <img src='img_4_7.png'>]]></text>
+            <answer correct='1'>Uл = 380 В</answer>
+            <answer>Uл = 220 В   </answer>
+            <answer correct='1'>Uф = 220 В  </answer>
+            <answer>Uф = 380 В</answer>
+            <answer>Uл = 380 - 220 В</answer>
+        </question>
+        <question>
+            <text><![CDATA[Человек попал под напряжение (Rзам &lt;&lt; Rh)<br><img src='img_4_8.png'>]]></text>
+            <answer correct='1'>Uh = Uл</answer>
+            <answer>Uh = Uф</answer>
+            <answer>Uh = 0</answer>
+            <answer>Uф &lt; Uh &lt; Uл</answer>
+        </question>
+        <question>
+            <text><![CDATA[Ток через человека при прикосновении к пробитому корпусу <img src='img_4_9.png'>, r_из = 10 кОм]]></text>
+            <answer correct='1'>220 мА</answer>
+            <answer>3 мА</answer>
+            <answer>5 мА</answer>
+            <answer>10 мА</answer>
+            <answer>50 мА</answer>
+        </question>
+        <question>
+            <text>В сетях с заземленной нейтралью V &lt; 1000 В для защиты от замыкания на корпус применяется</text>
+            <answer correct='1'>устройство защитного отключения</answer>
+            <answer>защитное заземление</answer>
+            <answer>зануление</answer>
+            <answer>контроль за величиной сопротивления изоляции</answer>
+            <answer>дисковая блокировка</answer>
+        </question>
+        <question>
+            <text>В сетях с изолированной нейтралью V &lt; 1000 В для защиты от замыкания на корпус применяются </text>
+            <answer correct='1'>устройство защитного отключения</answer>
+            <answer correct='1'>защитное заземление</answer>
+            <answer>зануление</answer>
+            <answer correct='1'>контроль за величиной сопротивления изоляции</answer>
+            <answer>дисковая блокировка</answer>
+        </question>
+        <question>
+            <text>Виды заземляющих устройств:</text>
+            <answer correct='1'>выносное</answer>
+            <answer correct='1'>контурное</answer>
+            <answer>вертикальное</answer>
+            <answer>горизонтальное</answer>
+            <answer>потенциальное</answer>
+        </question>
+        <question>
+            <text>Эффект экранирования ведет к ...</text>
+            <answer correct='1'>увеличению необходимого числа заземлителей</answer>
+            <answer correct='1'>ухудшения коэффициента экранирования</answer>
+            <answer correct='1'>трудности стекания тока с заземлителей</answer>
+            <answer>уменьшению необходимого числа заземлителей</answer>
+            <answer>улучшению коэффициента экранирования</answer>
+        </question>
+        <question>
+            <text>Зануление - это преднамеренное электрическое соединение металлических корпусов электроустановок с  ...</text>
+            <answer correct='1'>нулевым защитным проводником</answer>
+            <answer>фазным проводом</answer>
+            <answer>нулевым рабочим проводом</answer>
+            <answer>заземляющим устройством</answer>
+        </question>
+        <question>
+            <text>Требование к нулевому защитному проводнику:</text>
+            <answer correct='1'>малое сопротивление</answer>
+            <answer>изоляция, как у фазного провода</answer>
+            <answer>сечение, как у фазного провода</answer>
+            <answer>высокое сопротивление</answer>
+        </question>
+        <question>
+            <text>Заземление нейтрали в схеме зануления необходимо для защиты человека ...</text>
+            <answer correct='1'>от момента пробоя до момента срабатывания защиты.</answer>
+            <answer correct='1'>при обрыве фазного провода на землю</answer>
+            <answer>от пробоя на корпус</answer>
+            <answer>при обрыве нулевого защитного провода</answer>
+            <answer>от шагового напряжения</answer>
+        </question>
+        <question>
+            <text><![CDATA[Напряжение прикосновения при U=380/220 В в случае обрыва НЗП<br><img src='img_4_10.png'>]]></text>
+            <answer correct='1'>220В</answer>
+            <answer>380В</answer>
+            <answer>110В</answer>
+            <answer>190В</answer>
+        </question>
+        <question>
+            <text>Область применения УЗО</text>
+            <answer correct='1'>Практически не ограничена</answer>
+            <answer>Ограничена напряжением сети</answer>
+            <answer>Ограничена режимом нейтрали сети</answer>
+            <answer>Ограничена передвижными установками</answer>
+        </question>
+        <question>
+            <text>Основные требования к УЗО</text>
+            <answer correct='1'>Высокая чувствительность</answer>
+            <answer correct='1'>Малое время отключения</answer>
+            <answer correct='1'>Селективность</answer>
+            <answer correct='1'>Самоконтроль исправности</answer>
+            <answer>Напряжение питания</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите правильное соответствие схемы и названия:<br><img src='img_4_11.png'><br><img src=':/img/img/img_4_14.png'><ol type='a'>
+            <li>Защитное заземление</li>
+            <li>Зануление</li>
+            <li>Электрическая блокировка</li>
+            <li>УЗО на ток замыкания на землю</li>
+            <li>УЗО на потенциал корпуса</li>
+            </ol>]]></text>
+            <answer correct='1'>1e, 2d, 3b, 4a</answer>
+            <answer>1a, 2c, 3b, 4e</answer>
+            <answer>1c, 2b, 3d, 4a</answer>
+            <answer>1a, 2b, 3d, 4e</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите правильное соответствие схемы и названия:<br><img src='img_4_13.png'><br><img src=':/img/img/img_4_14.png'><ol type='a'>
+            <li>УЗО на напряжение нулевой последовательности</li>
+            <li>Зануление</li>
+            <li>Электрическая блокировка</li>
+            <li>УЗО на ток замыкания на землю</li>
+            <li>УЗО на потенциал корпуса</li>
+            </ol>]]></text>
+            <answer correct='1'>1e, 2d, 3b, 4a</answer>
+            <answer>1a, 2c, 3b, 4e</answer>
+            <answer>1c, 2b, 3d, 4a</answer>
+            <answer>1a, 2b, 3d, 4e</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите правильное соответствие схемы и названия:<br><img src='img_4_15.png'><br><img src=':/img/img/img_4_16.png'><ol type='a'>
+            <li>УЗО на ток замыкания на землю</li>
+            <li>Зануление</li>
+            <li>Защитное заземление</li>
+            <li>УЗО на ток замыкания на землю</li>
+            <li>УЗО на потенциал корпуса</li>
+            </ol>]]></text>
+            <answer correct='1'>1e, 2d, 3b, 4a</answer>
+            <answer>1a, 2c, 3b, 4e</answer>
+            <answer>1c, 2b, 3d, 4a</answer>
+            <answer>1a, 2b, 3d, 4e</answer>
+        </question>
+        <question>
+            <text>Основные изолирующие защитные средства V &lt; 1000</text>
+            <answer correct='1'>диэлектрические перчатки</answer>
+            <answer correct='1'>изолирующие клещи</answer>
+            <answer correct='1'>указатели напряжения</answer>
+            <answer correct='1'>изолирующие штанги</answer>
+            <answer>предупредительные плакаты</answer>
+        </question>
+        <question>
+            <text>Ограждающие защитные средства</text>
+            <answer correct='1'>временные переносные ограждения</answer>
+            <answer correct='1'>изолирующие накладки</answer>
+            <answer correct='1'>временные переносные заземления</answer>
+            <answer correct='1'>предупредительные плакаты</answer>
+            <answer>противогазы</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите основные изолирующие защитные средства в электроустановках до 1000 В<br><img src='img_4_17.png'>]]></text>
+            <answer correct='1'>1</answer>
+            <answer correct='1'>3</answer>
+            <answer>2</answer>
+            <answer>4</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите дополнительные изолирующие защитные средства в электроустановках до 1000 В<br><img src='img_4_18.png'>]]></text>
+            <answer correct='1'>1</answer>
+            <answer correct='1'>2</answer>
+            <answer>3</answer>
+            <answer>4</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите ограждающие защитные средства<br><img src='img_4_19.png'>]]></text>
+            <answer correct='1'>1</answer>
+            <answer>2</answer>
+            <answer>3</answer>
+            <answer>4</answer>
+        </question>
+        <question>
+            <text><![CDATA[Выберите предохранительные защитные средства<br><img src='img_4_20.png'>]]></text>
+            <answer correct='1'>1</answer>
+            <answer correct='1'>3</answer>
+            <answer>2</answer>
+            <answer>4</answer>
+        </question>
+        <question>
+            <text>Контроль за величиной сопротивления изоляции осуществляется с помощью</text>
+            <answer correct='1'>трех вольтметров</answer>
+            <answer>двух вольтметров</answer>
+            <answer>двух ваттметров</answer>
+            <answer>вольтметра и амперметра</answer>
+        </question>
+        <question>
+            <text>Сопротивление изоляции между проводом и землей должно быть не менее</text>
+            <answer correct='1'>0,5 МОм</answer>
+            <answer>4 Ом</answer>
+            <answer>10 Ом</answer>
+            <answer>20 кОм</answer>
+        </question>
+        <question>
+            <text>Прибор для измерения величины сопротивления изоляции</text>
+            <answer correct='1'>мегометр</answer>
+            <answer>люксметр</answer>
+            <answer>амперметр</answer>
+            <answer>вольтметр</answer>
+        </question>
+    </section>
+    <section>
+        <question>
+            <text>Первую медицинскую помощь пострадавшему от электрического тока необходимо оказывать</text>
+            <answer correct='1'>На месте происшествия</answer>
+            <answer>В медицинском кабинете</answer>
+            <answer>В специальном стационаре</answer>
+            <answer>В удобной светлой комнате</answer>
+        </question>
+        <question>
+            <text>Переносить пострадавшего от электрического тока с места происшествия для оказания помощи можно</text>
+            <answer correct='1'>Из-за темноты</answer>
+            <answer correct='1'>При дожде</answer>
+            <answer correct='1'>Если очень тесно</answer>
+            <answer>При отсутствии дыхания</answer>
+            <answer>При отсутствии пульса</answer>
+        </question>
+        <question>
+            <text>Состояние пострадавшего от действия тока оценивается по наличию</text>
+            <answer correct='1'>Дыхания</answer>
+            <answer correct='1'>Пульса</answer>
+            <answer correct='1'>Расширенного зрачка</answer>
+            <answer correct='1'>Суженного зрачка</answer>
+            <answer>Бледности кожных покровов</answer>
+        </question>
+        <question>
+            <text>Наличие дыхания у пострадавшего определяется по </text>
+            <answer correct='1'>Подъему грудной клетки</answer>
+            <answer>Движению ниточки поднесенной ко рту на глаз</answer>
+            <answer>Запотеванию зеркала у рта пострадавшего</answer>
+            <answer>Шевелению перышка, поднесенного ко рту</answer>
+        </question>
+        <question>
+            <text>Работа сердца у пострадавшего определяется по</text>
+            <answer correct='1'>Наличию пульса на сонной артерии</answer>
+            <answer correct='1'>Наличию пульса на лучевой артерии</answer>
+            <answer correct='1'>Расширенным зрачкам</answer>
+            <answer>Бледности кожных покровов</answer>
+            <answer>Подъему грудной клетки</answer>
+        </question>
+        <question>
+            <text>Диагноз «смерть» может поставить оказывающий помощь, если у пострадавшего</text>
+            <answer correct='1'>Нет головы</answer>
+            <answer correct='1'>Тело полностью обгорело</answer>
+            <answer>Отсутствует конечность</answer>
+            <answer>Нет признаков жизни</answer>
+            <answer>Нет пульса</answer>
+        </question>
+        <question>
+            <text>Пострадавшего приводят в сознание</text>
+            <answer correct='1'>Дав вату с нашатырным спиртом</answer>
+            <answer correct='1'>Побрызгав холодной водой лицо</answer>
+            <answer correct='1'>Растерев и согрев тело</answer>
+            <answer correct='1'>Слегка пошлепав по щекам</answer>
+            <answer>Раздев для охлаждения</answer>
+        </question>
+        <question>
+            <text>Пострадавшего приводят в сознание</text>
+            <answer correct='1'>Трупные пятна</answer>
+            <answer correct='1'>Окоченение тела</answer>
+            <answer>Отсутствие дыхания</answer>
+            <answer>Бледность кожных покровов</answer>
+            <answer>Отсутствие пульса</answer>
+        </question>
+        <question>
+            <text><![CDATA[Последовательность действий при выполнении искусственного дыхания:<ol>
+            <li>Оказывающий помощь отстраняется назад</li>
+            <li>Грудная клетка пострадавшего опускается</li>
+            <li>Зажать нос пострадавшего</li>
+            <li>Оказывающему помощь сделать глубокий вдох</li>
+            <li>С силой выдуть воздух в рот пострадавшего</li>
+            </ol>]]></text>
+            <answer correct='1'>4, 3, 5, 1, 2</answer>
+            <answer>1, 3, 5, 4, 2</answer>
+            <answer>1, 5, 3, 4, 2</answer>
+            <answer>4, 1, 5, 3, 2</answer>
+            <answer>5, 1, 4, 3, 2</answer>
+        </question>
+        <question>
+            <text>Оценка правильности действий при выполнении искусственного дыхания пострадавшему</text>
+            <answer correct='1'>На глаз по подъему грудной клетки</answer>
+            <answer>По цвету кожных покровов</answer>
+            <answer>По состоянию глазного зрачка</answer>
+            <answer>По появлению сердечных сокращений</answer>
+        </question>
+        <question>
+            <text>Взрослому человеку необходимо делать искусственное дыхание с частотой … вдуваний в минуту</text>
+            <answer correct='1'>10 – 12</answer>
+            <answer>3 – 4</answer>
+            <answer>6 – 8</answer>
+            <answer>15 – 18</answer>
+        </question>
+        <question>
+            <text>Непрямой массаж сердца должен чередоваться с</text>
+            <answer correct='1'>Искусственным дыханием</answer>
+            <answer>Освобождением рта от посторонних предметов</answer>
+            <answer>Осмотром зрачков глаз</answer>
+            <answer>Проверкой наличия пульса</answer>
+        </question>
+        <question>
+            <text>Признаки эффективности выполнения непрямого массажа сердца</text>
+            <answer correct='1'>Появление пульса на сонной артерии</answer>
+            <answer correct='1'>Сужение зрачков у пострадавшего</answer>
+            <answer correct='1'>Уменьшение синюшности кожи</answer>
+            <answer correct='1'>Появление самостоятельного дыхания</answer>
+            <answer>Расширение зрачков у пострадавшего</answer>
+        </question>
+        <question>
+            <text><![CDATA[Последовательность мер по оказанию 2-мя спасателями доврачебной помощи пострадавшему от тока:<ol>
+            <li>Сделать глубокое вдувание изо рта в рот</li>
+            <li>Отстраниться и дать опуститься грудной клетке</li>
+            <li>Уложить пострадавшего на горизонтальную поверхность</li>
+            <li>Запрокинуть голову назад, освободив рот от посторонних предметов</li>
+            <li>Ослабить стягивающую одежду</li>
+            <li>Произвести пять нажатий на грудную клетку</li>
+            </ol>]]></text>
+            <answer correct='1'>3, 5, 4, 1, 2, 6</answer>
+            <answer>4, 5, 3, 1, 2, 6</answer>
+            <answer>3, 1, 4, 5, 2, 6</answer>
+            <answer>3, 6, 4, 1, 2, 5</answer>
+            <answer>6, 5, 4, 1, 2, 3</answer>
+        </question>
+        <question>
+            <text>Режим оказания доврачебной помощи 2-мя спасателями: вдуваний  …  -  … нажатий на грудную клетку</text>
+            <answer correct='1'>1 - 5</answer>
+            <answer>2 - 5</answer>
+            <answer>1 - 10</answer>
+            <answer>2 - 15</answer>
+        </question>
+        <question>
+            <text>Беспламенное горение твердого вещества</text>
+            <answer correct='1'>тление</answer>
+            <answer>огонь</answer>
+            <answer>искры</answer>
+            <answer>дым</answer>
+        </question>
+        <question>
+            <text>Беспламенное горение твердого вещества</text>
+            <answer correct='1'>металлы</answer>
+            <answer correct='1'>гипсовые плиты</answer>
+            <answer correct='1'>неорганические материалы</answer>
+            <answer correct='1'>железобетон</answer>
+            <answer>дерево</answer>
+        </question>
+        <question>
+            <text>Процесс горения возможен, если имеются</text>
+            <answer correct='1'>горючее вещество</answer>
+            <answer correct='1'>источник зажигания</answer>
+            <answer correct='1'>окислитель</answer>
+            <answer>человек</answer>
+            <answer>огнетушитель</answer>
+        </question>
+        <question>
+            <text>Вещества, способные самовозгораться при контакте с воздухом</text>
+            <answer correct='1'>пирофорные</answer>
+            <answer>горючие</answer>
+            <answer>трудногорючие</answer>
+            <answer>негорючие</answer>
+        </question>
+        <question>
+            <text>Неконтролируемое горение вне специального очага, не наносящее материальный ущерб</text>
+            <answer correct='1'>загорание</answer>
+            <answer>пожар</answer>
+            <answer>взрыв</answer>
+            <answer>искры</answer>
+        </question>
+        <question>
+            <text>Наименьшая концентрация взрывоопасной смеси, при которой еще возможен взрыв – … концентрационный предел взрываемости</text>
+            <answer correct='1'>нижний</answer>
+            <answer>верхний</answer>
+            <answer>средний</answer>
+            <answer>крайний</answer>
+        </question>
+        <question>
+            <text>Время в часах от начала испытаний строительной конструкции огнем до появления разрушающих признаков</text>
+            <answer correct='1'>предел огнестойкости</answer>
+            <answer>огнестойкости</answer>
+            <answer>огнеупорность</answer>
+            <answer>предел огнеупорности</answer>
+        </question>
+        <question>
+            <text>Автоматические извещатели о пожаре по принципу действия подразделяются на</text>
+            <answer correct='1'>тепловые</answer>
+            <answer correct='1'>дымовые</answer>
+            <answer correct='1'>комбинированные</answer>
+            <answer correct='1'>световые</answer>
+            <answer>звуковые</answer>
+        </question>
+        <question>
+            <text>Чувствительный элемент в дымовых  извещателях о пожаре</text>
+            <answer correct='1'>ионизационная камера</answer>
+            <answer>биметаллическая пластинка</answer>
+            <answer>термосопротивление</answer>
+            <answer>термопара</answer>
+            <answer>счетчики фотонов</answer>
+        </question>
+        <question>
+            <text>Чувствительный элемент в дымовых  извещателях о пожаре</text>
+            <answer correct='1'>порошок</answer>
+            <answer correct='1'>углекислота</answer>
+            <answer correct='1'>песок</answer>
+            <answer>химическая пена</answer>
+            <answer>вода</answer>
+        </question>
+    </section>
+</test>

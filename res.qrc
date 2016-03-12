@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/img_3_1.png</file>
+        <file>img/img_3_2.png</file>
+        <file>img/img_3_3.png</file>
+        <file>img/img_3_4.png</file>
+        <file>img/img_3_5.png</file>
+        <file>img/img_3_6.png</file>
+        <file>img/img_3_7.png</file>
+        <file>img/img_3_8.png</file>
+        <file>img/img_3_9.png</file>
+        <file>img/img_4_15.png</file>
+        <file>img/img_4_16.png</file>
+        <file>img/img_4_17.png</file>
+        <file>img/img_4_18.png</file>
+        <file>img/img_4_19.png</file>
+        <file>img/img_4_2.png</file>
+        <file>img/img_4_8.png</file>
+        <file>img/img_4_9.png</file>
+        <file>img/img_4_20.png</file>
+        <file>img/img_4_3.png</file>
+        <file>img/img_4_4.png</file>
+        <file>img/img_4_5.png</file>
+        <file>img/img_4_6.png</file>
+        <file>img/img_4_7.png</file>
+        <file>img/img_4_1.png</file>
+        <file>img/img_4_10.png</file>
+        <file>img/img_4_11.png</file>
+        <file>img/img_4_12.png</file>
+        <file>img/img_4_13.png</file>
+        <file>img/img_4_14.png</file>
+        <file>img/img_2_1.png</file>
+        <file>img/img_2_2.png</file>
+        <file>img/img_2_3.png</file>
+        <file>img/img_2_4.png</file>
+        <file>img/img_2_5.png</file>
+        <file>img/img_2_6.png</file>
+        <file>img/img_2_7.png</file>
+        <file>img/img_2_8.png</file>
+        <file>img/img_2_9.png</file>
+    </qresource>
+    <qresource prefix="/xml">
+        <file>test.xml</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon.png</file>
+    </qresource>
+</RCC>
