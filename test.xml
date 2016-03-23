@@ -1148,6 +1148,7 @@
             <answer>110 мА</answer>
             <answer>440 мА</answer>
         </question>
+        <!--
         <question>
             <text><![CDATA[Зависимость тока через тело человека Ih=f(Rиз), если C=0<br><img src='img_4_2.png'><img src=':/img/img/img_4_3'.png>]]></text>
             <answer correct='1'>а</answer>
@@ -1156,14 +1157,7 @@
             <answer>г</answer>
             <answer>д</answer>
         </question>
-        <question>
-            <text><![CDATA[Прикосновение наиболее опасно при r_зам &lt;&lt; Rh<br><img src='img_4_4.png'>]]></text>
-            <answer correct='1'>3</answer>
-            <answer>1</answer>
-            <answer>2</answer>
-            <answer>4</answer>
-            <answer>5</answer>
-        </question>
+        -->
         <question>
             <text><![CDATA[Зависимость тока через тело человека Ih = f(c), Rиз = ∞<br><img src='img_4_5.png'>]]></text>
             <answer correct='1'>в</answer>
@@ -1179,6 +1173,14 @@
             <answer>Uл = 220 В</answer>
             <answer>Uф = 380 В</answer>
             <answer>Uл = 380 - 220 В</answer>
+        </question>
+        <question>
+            <text><![CDATA[Прикосновение наиболее опасно при r_зам &lt;&lt; Rh<br><img src='img_4_4.png'>]]></text>
+            <answer correct='1'>3</answer>
+            <answer>1</answer>
+            <answer>2</answer>
+            <answer>4</answer>
+            <answer>5</answer>
         </question>
         <question>
             <text><![CDATA[Маркировка напряжения трехфазной сети <img src='img_4_7.png'>]]></text>
