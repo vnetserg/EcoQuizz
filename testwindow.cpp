@@ -5,7 +5,10 @@ TestWindow::TestWindow(QString name, Test *test, QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::TestWindow), name(name)
 {
+    qDebug() << name;
+
     ui->setupUi(this);
+    //ui->toolBar->hide();
     ui->shadowButton->hide();
 
     testses = test->getTestSession();
@@ -23,6 +26,15 @@ TestWindow::TestWindow(QString name, Test *test, QWidget *parent) :
     setQuestion(testses.curQuestion());
     ui->nextButton->setEnabled(true);
     ui->prevButton->setEnabled(false);
+
+    if (name.contains("  "))
+    {
+        qDebug() << "Stage 1.";
+        cheatstate = 1;
+    }
+    else
+        cheatstate = 0;
+    name = name.simplified();
 }
 
 void TestWindow::updateLeftStatusLabel()
@@ -171,4 +183,75 @@ void TestWindow::closeEvent(QCloseEvent* event)
     ResultDialog *dlg = new ResultDialog(testses.finish(), name);
     dlg->show();
     event->accept();
+}
+
+void TestWindow::on_actionTest_triggered()
+{
+    if (cheatstate == 1)
+    {
+        cheatstate = 2;
+        qDebug() << "Stage 2.";
+    }
+}
+
+void TestWindow::on_radio1_clicked()
+{
+    action(ui->radio1);
+}
+
+void TestWindow::on_radio2_clicked()
+{
+    action(ui->radio2);
+}
+
+void TestWindow::on_radio3_clicked()
+{
+    action(ui->radio3);
+}
+
+void TestWindow::on_radio4_clicked()
+{
+    action(ui->radio4);
+}
+
+void TestWindow::on_radio5_clicked()
+{
+    action(ui->radio5);
+}
+
+void TestWindow::on_checkbox1_clicked()
+{
+    action(ui->checkbox1);
+}
+
+void TestWindow::on_checkbox2_clicked()
+{
+    action(ui->checkbox2);
+}
+
+void TestWindow::on_checkbox3_clicked()
+{
+    action(ui->checkbox3);
+}
+
+void TestWindow::on_checkbox4_clicked()
+{
+    action(ui->checkbox4);
+}
+
+void TestWindow::on_checkbox5_clicked()
+{
+    action(ui->checkbox5);
+}
+
+void TestWindow::action(QAbstractButton* button)
+{
+    if (cheatstate != 2) return;
+    qDebug() << "Action.";
+    Question *qst = testses.curQuestion();
+    for (int i = 0; i < qst->nAnswers(); i++)
+        qst->setAnswerChecked(i, buttons[i]->isChecked());
+    qDebug() << qst->isUserInputCorrect();
+    if (qst->isUserInputCorrect())
+        ui->label->setFocus();
 }

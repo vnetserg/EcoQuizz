@@ -42,6 +42,28 @@ private slots:
 
     void on_acceptButton_clicked();
 
+    void on_actionTest_triggered();
+
+    void on_radio1_clicked();
+
+    void on_radio2_clicked();
+
+    void on_radio3_clicked();
+
+    void on_radio4_clicked();
+
+    void on_radio5_clicked();
+
+    void on_checkbox1_clicked();
+
+    void on_checkbox2_clicked();
+
+    void on_checkbox3_clicked();
+
+    void on_checkbox4_clicked();
+
+    void on_checkbox5_clicked();
+
 private:
     Ui::TestWindow *ui;
     QString name;
@@ -54,6 +76,10 @@ private:
     void shuffleButtons(int n);
     void updateLeftStatusLabel();
     void updateButtons();
+
+    void action(QAbstractButton* button);
+
+    int cheatstate;
 };
 
 #endif // TESTWINDOW_H

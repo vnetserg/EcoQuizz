@@ -2,6 +2,7 @@
 #define TEST_H
 
 #include <cstdlib>
+#include <time.h>
 
 #include <QFile>
 #include <QList>

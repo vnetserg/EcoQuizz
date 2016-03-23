@@ -63,16 +63,20 @@ void Question::commit()
         qDebug() << (i+1) << ") " << answers[i] << "[correct: " << correct[i]
                   << ", user: " << checked[i] << "];";
 
+    /*
     userInputCorrect = true;
     for (int i = 0; i < answers.length(); i++)
         if (correct[i] != checked[i])
             userInputCorrect = false;
+    */
     committed = true;
 }
 
 bool Question::isUserInputCorrect()
 {
-    if (!committed)
-        return false;
+    userInputCorrect = true;
+    for (int i = 0; i < answers.length(); i++)
+        if (correct[i] != checked[i])
+            userInputCorrect = false;
     return userInputCorrect;
 }

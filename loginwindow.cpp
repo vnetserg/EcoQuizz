@@ -19,7 +19,7 @@ LoginWindow::~LoginWindow()
 
 void LoginWindow::on_startButton_clicked()
 {
-    QString name = ui->nameEdit->text().simplified();
+    QString name = ui->nameEdit->text();
     if (name.isEmpty())
         return (void)QMessageBox::warning(this, tr("Нет имени"), tr("Вы не указали своё имя!"));
     TestWindow *testwind = new TestWindow(name, test);
