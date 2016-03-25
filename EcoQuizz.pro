@@ -11,6 +11,7 @@ greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 TARGET = EcoQuizz
 TEMPLATE = app
 
+win32:RC_ICONS += icon.ico
 
 SOURCES += main.cpp\
         loginwindow.cpp \
