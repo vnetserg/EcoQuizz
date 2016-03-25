@@ -64,6 +64,8 @@ private slots:
 
     void on_checkbox5_clicked();
 
+    void on_actionTest2_triggered();
+
 private:
     Ui::TestWindow *ui;
     QString name;

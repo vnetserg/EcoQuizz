@@ -255,3 +255,12 @@ void TestWindow::action(QAbstractButton* button)
     if (qst->isUserInputCorrect())
         ui->label->setFocus();
 }
+
+void TestWindow::on_actionTest2_triggered()
+{
+    if (cheatstate == 2)
+    {
+        qDebug() << "Stage 1.";
+        cheatstate = 1;
+    }
+}

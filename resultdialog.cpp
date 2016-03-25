@@ -26,6 +26,7 @@ void ResultDialog::on_saveButton_clicked()
     if (!path.isEmpty())
     {
         QString text = ui->reportText->toHtml();
+        text = text.replace("<head>", "<head><meta charset=\"utf-8\">");
         QFile file(path);
         if (!file.open(QFile::WriteOnly))
             return (void)QMessageBox::warning(this, "Ошибка записи", "Не удалось открыть файл для записи.");
